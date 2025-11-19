@@ -1,0 +1,150 @@
+.splash-overlay {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  background: transparent;
+  color: #fff;
+  text-align: center;
+}
+
+.splash-card {
+  width: min(720px, 100%);
+  padding: clamp(2rem, 5vw, 4rem);
+  border-radius: 32px;
+  border: 2px solid #000;
+  background-image: linear-gradient(135deg, rgba(5, 8, 7, 0.95) 0%, rgba(92, 26, 10, 0.9) 60%, rgba(30, 2, 2, 0.9) 100%),
+    var(--hero-pattern, url('/assets/pattern-savannah.svg'));
+  background-size: cover;
+  background-blend-mode: overlay;
+  box-shadow: none;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  animation: fadeIn 0.8s ease forwards;
+}
+
+.splash-card__logos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.splash-card__logos img {
+  width: clamp(72px, 12vw, 120px);
+  height: clamp(72px, 12vw, 120px);
+  object-fit: contain;
+  filter: drop-shadow(0 5px 18px rgba(0, 0, 0, 0.45));
+}
+
+.splash-card h1 {
+  font-size: clamp(2.5rem, 8vw, 4rem);
+  letter-spacing: 0.25rem;
+  margin: 0 auto;
+  font-family: 'NishikiTeki', 'Futura', sans-serif;
+  color: #f26c22;
+  -webkit-text-stroke: 2px #4b2c20;
+  text-shadow: 2px 2px 0 #4b2c20, -2px -2px 0 #4b2c20, 2px -2px 0 #4b2c20, -2px 2px 0 #4b2c20;
+  white-space: nowrap;
+}
+
+.splash-card h1 span {
+  color: #0b3d2c;
+  letter-spacing: 0.15rem;
+  display: inline-block;
+}
+
+.splash-card__one {
+  color: #0b3d2c;
+}
+
+.splash-card__proverb {
+  font-size: 1.2rem;
+  font-style: italic;
+  opacity: 0.9;
+  max-width: 50ch;
+  margin: 0 auto;
+  color: #4b2c20;
+}
+
+.splash-card__proverb-text {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.splash-card__proverb-text::after {
+  content: '';
+  width: 2px;
+  height: 1em;
+  margin-left: 0.4rem;
+  background: currentColor;
+  animation: caretBlink 0.85s steps(2) infinite;
+}
+
+.splash-card__proverb-text.is-complete::after {
+  opacity: 0;
+  animation: none;
+}
+
+.splash-card__cta {
+  align-self: center;
+  border: 2px solid #000;
+  border-radius: 16px;
+  background: #ffd046;
+  color: #1b1b1b;
+  font-weight: 700;
+  letter-spacing: 0.2rem;
+  padding: 0.85rem 3rem;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+  opacity: 0;
+}
+
+.splash-card__cta--visible {
+  animation: dissolveIn 0.6s ease forwards;
+}
+
+.splash-card__cta:hover {
+  transform: scale(1.03);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes dissolveIn {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+    filter: blur(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+    filter: blur(0);
+  }
+}
+
+@keyframes caretBlink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

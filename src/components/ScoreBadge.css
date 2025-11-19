@@ -1,0 +1,28 @@
+.score-badge {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 0.75rem 1rem;
+  border-radius: 20px;
+  border: 1px solid var(--outline);
+  min-width: 120px;
+}
+
+.score-badge--primary {
+  background: color-mix(in srgb, var(--accent) 15%, transparent);
+  border-color: color-mix(in srgb, var(--accent) 60%, var(--outline));
+}
+
+.score-badge--neutral {
+  background: color-mix(in srgb, var(--surface) 60%, transparent);
+}
+
+.score-badge span {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.score-badge strong {
+  font-size: 1.4rem;
+}

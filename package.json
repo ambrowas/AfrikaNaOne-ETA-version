@@ -1,0 +1,35 @@
+{
+  "name": "afrika-na-one-ife",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "electron/main.cjs",
+  "scripts": {
+    "dev": "vite --open",
+    "dev:renderer": "vite --host 127.0.0.1 --port 5173 --strictPort",
+    "electron:wait": "wait-on http://127.0.0.1:5173 && cross-env ELECTRON_RUN_AS_NODE= ELECTRON_START_URL=http://127.0.0.1:5173 electron .",
+    "dev:electron": "concurrently -k \"npm:dev:renderer\" \"npm:electron:wait\"",
+    "start:electron": "cross-env ELECTRON_RUN_AS_NODE= electron .",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc -b --pretty"
+  },
+  "dependencies": {
+    "flagpack": "^1.0.5",
+    "lottie-react": "^2.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.65",
+    "@types/react-dom": "^18.2.21",
+    "@vitejs/plugin-react": "^4.3.0",
+    "concurrently": "^9.2.1",
+    "cross-env": "^10.1.0",
+    "electron": "^39.2.1",
+    "typescript": "^5.4.2",
+    "vite": "^5.1.6",
+    "wait-on": "^9.0.3"
+  }
+}

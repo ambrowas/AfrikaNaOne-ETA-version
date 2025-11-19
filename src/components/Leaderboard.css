@@ -1,0 +1,26 @@
+.leaderboard {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.leaderboard__item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  border-radius: 16px;
+  background: var(--surface);
+  border: 1px solid var(--outline);
+}
+
+.leaderboard__rank {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-right: 0.5rem;
+}
+
+.leaderboard__score {
+  font-size: 1.5rem;
+  color: var(--accent);
+}

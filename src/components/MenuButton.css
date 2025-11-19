@@ -1,0 +1,40 @@
+.menu-button {
+  width: 100%;
+  border: 1px solid var(--outline);
+  border-radius: 24px;
+  padding: 1rem 1.25rem;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  text-align: left;
+  background: color-mix(in srgb, var(--surface) 90%, white);
+  color: inherit;
+  cursor: pointer;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+.menu-button:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+
+.menu-button__icon {
+  display: grid;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 16px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+.menu-button strong {
+  font-size: 1.1rem;
+}
+
+.menu-button p {
+  margin: 0.2rem 0 0;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}

@@ -1,0 +1,3002 @@
+{
+    "1": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "BEASTS OF NO NATION",
+        "NUMBER": "1",
+        "OPTION_B": "THE BOY WHO HARNESSED THE WIND",
+        "QUESTION": "What 2005 novel by Uzodinma Iweala was adapted to film by Cary Joji Fukunaga and Idris Elba?",
+        "OPTION_A": "BEASTS OF NO NATION",
+        "OPTION_C": "HALF A YELLOW SUN",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "10": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "WOLE SOYINKA",
+        "NUMBER": "10",
+        "OPTION_B": "WOLE SOYINKA",
+        "QUESTION": "The Trials of Brother Jero is a satiric play about a fake prophet written by which Nobel Prize laureate?",
+        "OPTION_A": "IBRAHIM K. SUNDIATA",
+        "OPTION_C": "AMOS TUTUOLA",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "100": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "BIKUTSI",
+        "NUMBER": "100",
+        "OPTION_B": "BIKUTSI",
+        "QUESTION": "What popular music genre from Central Africa literally means to hit the ground in local dialects? ",
+        "OPTION_A": "ZOUK",
+        "OPTION_C": "MAKOSSA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "101": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "KINSASHA",
+        "NUMBER": "101",
+        "OPTION_B": "KINSASHA",
+        "QUESTION": "Leopoldville is now called.. ",
+        "OPTION_A": "BRAZAVILLE",
+        "OPTION_C": "N'DJAMENA",
+        "IMAGE": "https://iniciativaselebi.com/generador-preguntas/?collection=HISTORY&number=&question=%C2%BFWhat%27s+the+current+reigning+dynasty+in+Morocco%3F+&optionA=ALAOUITE&optionB=ALMORAVID&optionC=HACHEMITE&respuesta=A"
+    },
+    "102": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "PORT SUDAN",
+        "NUMBER": "102",
+        "OPTION_B": "PORT SUDAN",
+        "QUESTION": "What Red Sea coastal city in Sudan shares its name with that country?",
+        "OPTION_A": "SUDAN EL OBEID",
+        "OPTION_C": "SUDAN EL ATBARA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "103": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "YAMOUSSOUKRO",
+        "NUMBER": "103",
+        "OPTION_B": "ADDIS ABABA",
+        "QUESTION": "Which capital is home to the massive Basilica of Our Lady of Peace, one of the biggest churches in the world? ?",
+        "OPTION_A": "PRETORIA",
+        "OPTION_C": "YAMOUSSOUKRO",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "104": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "BLOEMFONTEIN",
+        "NUMBER": "104",
+        "OPTION_B": "BLOEMFONTEIN",
+        "QUESTION": "Petoria, Capte Town and .... are the three official capitals of South Africa",
+        "OPTION_A": "PORT ELIZABETH",
+        "OPTION_C": "MAFIKENG",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "105": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "AFRICAN RENAISSANCE MONUMENT",
+        "NUMBER": "105",
+        "OPTION_B": "MOREMI STATUE",
+        "QUESTION": "What monument by designed by Senegalese architect Pierre Goudiaby Atepa is Africa's tallest statue? ",
+        "OPTION_A": "NELSON MANDELA STATUE",
+        "OPTION_C": "AFRICAN RENAISSANCE MONUMENT",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "106": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "THE CONGO RIVER",
+        "NUMBER": "106",
+        "OPTION_B": "THE CONGO RIVER",
+        "QUESTION": "What physical feature separates Kinshasa from Brazaville? ",
+        "OPTION_A": "MOUNT CONGO",
+        "OPTION_C": "THE CONGO BASIN",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "107": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "TANZANIA ",
+        "NUMBER": "107",
+        "OPTION_B": "TANZANIA ",
+        "QUESTION": "In terms of population, which of these countries ranks first? ",
+        "OPTION_A": "SOUTH AFRICA",
+        "OPTION_C": "ALGERIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "108": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "NIGER",
+        "NUMBER": "108",
+        "OPTION_B": "ANGOLA",
+        "QUESTION": "Which country is larger in terms of land area? ",
+        "OPTION_A": "NIGER",
+        "OPTION_C": "MALI",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "109": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "EQUATORIAL GUINEA",
+        "NUMBER": "109",
+        "OPTION_B": "MOZAMBIQUE",
+        "QUESTION": "Which country is the only one to have its capital on an island despite having a mainland region on the continent? ",
+        "OPTION_A": "SOMALIA",
+        "OPTION_C": "EQUATORIAL GUINEA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "11": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "NELSON MANDELA",
+        "NUMBER": "11",
+        "OPTION_B": "DESMOND TUTU",
+        "QUESTION": "Who had \"conversations with himself\" in a 2010 best-selling biography?",
+        "OPTION_A": "NELSON MANDELA",
+        "OPTION_C": "KWAMEH NKRUMAH",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "110": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "CAPE AGULHAS",
+        "NUMBER": "110",
+        "OPTION_B": "CAPE COAST",
+        "QUESTION": "What's the southernmost point in Africa, where the Atlantic and the Indian ocean meet? ",
+        "OPTION_A": "CAPE OF GOOD HOPE",
+        "OPTION_C": "CAPE AGULHAS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "111": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "THE GULF OF GUINEA",
+        "NUMBER": "111",
+        "OPTION_B": "THE GULF OF GUINEA",
+        "QUESTION": "What geographical feature lends its name to three nearby African countries? ",
+        "OPTION_A": "THE CONGO RIVER",
+        "OPTION_C": "THE ABYSSINIAN DESERT",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "112": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "THE KIVUS (NORTH AND SOUTH)",
+        "NUMBER": "112",
+        "OPTION_B": "THE KATANGAS (EAST AND WEST)",
+        "QUESTION": "What mineral rich provinces of Eastern DRC are named after a nearby lake?",
+        "OPTION_A": "THE KIVUS (NORTH AND SOUTH)",
+        "OPTION_C": "THE ITURIS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "113": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "EQUATORIAL GUINEA",
+        "NUMBER": "113",
+        "OPTION_B": "GABON",
+        "QUESTION": "Despite what the ICJ may say, to whom do Conga, Cocoteros and Mbańe really belong to? ",
+        "OPTION_A": "EQUATORIAL GUINEA",
+        "OPTION_C": "BOTH",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "114": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "METICAL ",
+        "NUMBER": "114",
+        "OPTION_B": "METICAL ",
+        "QUESTION": "What currency is used in Mozambique?",
+        "OPTION_A": "PULA",
+        "OPTION_C": "RAND",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "115": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "NAMIBIAN DOLLARS",
+        "NUMBER": "115",
+        "OPTION_B": "NAMIBIAN MARCS",
+        "QUESTION": "What do Namibians use to pay things with? ",
+        "OPTION_A": "NAMIBIAN DOLLARS",
+        "OPTION_C": "NAMIBIAN POUNDS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "116": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "DRC",
+        "NUMBER": "116",
+        "OPTION_B": "NIGER",
+        "QUESTION": "Which one of these countries does NOT use the CFA Franc as currency? ",
+        "OPTION_A": "CAMEROON",
+        "OPTION_C": "DRC",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "117": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "BENIN",
+        "NUMBER": "117",
+        "OPTION_B": "SIERRA LEONE",
+        "QUESTION": "What West African country is bordered by Togo to the west, Nigeria to the east, Burkina Faso to the north, and Niger to the northeast?",
+        "OPTION_A": "MALI",
+        "OPTION_C": "BENIN",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "118": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "BOTSWANA",
+        "NUMBER": "118",
+        "OPTION_B": "MALAWI",
+        "QUESTION": "What southern African country is bordered by Namibia to the west and north, Zimbabwe to the northeast, and South Africa to the south and southeast?",
+        "OPTION_A": "ESWATINI",
+        "OPTION_C": "BOTSWANA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "119": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "NAMIBIA",
+        "NUMBER": "119",
+        "OPTION_B": "SUDAN",
+        "QUESTION": "Which of these countries the Khoisan people have traditionally inhabited?",
+        "OPTION_A": "NAMIBIA",
+        "OPTION_C": "ETHIOPIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "12": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "IGBO SOCIETY ",
+        "NUMBER": "12",
+        "OPTION_B": "IGBO SOCIETY ",
+        "QUESTION": "Chinua Achebe's 1958 opera prima \"Things Fall Apart\" depicts the clash in Nigeria between British colonialism and...",
+        "OPTION_A": "YORUBA TRIBES",
+        "OPTION_C": "HAUSA COMMUNITIES",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "120": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "BWITI",
+        "NUMBER": "120",
+        "OPTION_B": "VUDU",
+        "QUESTION": "What ancient spiritual practice is widely practiced by the fang people of Central Africa?",
+        "OPTION_A": "IBOGA",
+        "OPTION_C": "BWITI",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "121": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "THE BAKASSI PENINSULA",
+        "NUMBER": "121",
+        "OPTION_B": "BIAFRA",
+        "QUESTION": "What region has historically been a subject of dispute between Nigeria and Cameroon? ",
+        "OPTION_A": "THE BAKASSI PENINSULA",
+        "OPTION_C": "LAKE CHAD BASIN",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "122": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "RWANDA",
+        "NUMBER": "122",
+        "OPTION_B": "LESOTHO",
+        "QUESTION": "Which country hast one of the highest population densities despite being one of the smallest by area?",
+        "OPTION_A": "RWANDA",
+        "OPTION_C": "THE GAMBIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "123": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "ETHIOPIAN AIRLINES",
+        "NUMBER": "123",
+        "OPTION_B": "EGYPT AIR",
+        "QUESTION": "Bole International Airport is home to which major airline? ",
+        "OPTION_A": "SOUTH AFRICAN AIRWAYS",
+        "OPTION_C": "ETHIOPIAN AIRLINES",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "124": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "DJIBOUTI",
+        "NUMBER": "124",
+        "OPTION_B": "DJIBOUTI",
+        "QUESTION": "Which of these countries has access to the Gulf of Aden?",
+        "OPTION_A": "EGYPT",
+        "OPTION_C": "ERITREA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "125": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "TANZANIA",
+        "NUMBER": "125",
+        "OPTION_B": "SOMALIA",
+        "QUESTION": "Where would you find the Uluguru Mountains? ",
+        "OPTION_A": "KENIA",
+        "OPTION_C": "TANZANIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "126": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "ATLAS MOUNTAINS",
+        "NUMBER": "126",
+        "OPTION_B": "ATLAS MOUNTAINS",
+        "QUESTION": "What's the biggest mountain range in the continent?",
+        "OPTION_A": "DRAKENSBERG MOUNTAINS",
+        "OPTION_C": "ETHIOPIAN HIGHLANDS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "127": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "CEUTA & MELILLA",
+        "NUMBER": "127",
+        "OPTION_B": "THE CANARY ISLANDS",
+        "QUESTION": "What tiny enclaves on African continental soil still belong to Spain to this very day? ",
+        "OPTION_A": "ALSACE & LORRAINE",
+        "OPTION_C": "CEUTA & MELILLA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "128": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "JUBA, SOUTH SUDAN",
+        "NUMBER": "128",
+        "OPTION_B": "LUANDA, ANGOLA",
+        "QUESTION": "Which of these three capitals is closer to the Equator?",
+        "OPTION_A": "JUBA, SOUTH SUDAN",
+        "OPTION_C": "N'DJAMENA, CHAD",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "129": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "KANO",
+        "NUMBER": "129",
+        "OPTION_B": "IBADAN",
+        "QUESTION": "Which of these Nigerian cities has a bigger population?",
+        "OPTION_A": "KANO",
+        "OPTION_C": "ABA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "13": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "MANDINKA (MANDINGO)",
+        "NUMBER": "13",
+        "OPTION_B": "HAUSA-FULANI",
+        "QUESTION": "According to the famous novel by Alex Hailey, what was Kunta Kinte's tribe? ",
+        "OPTION_A": "MANDINKA (MANDINGO)",
+        "OPTION_C": "BAMBARA",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "130": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "KUMASI",
+        "NUMBER": "130",
+        "OPTION_B": "KUMASI",
+        "QUESTION": "Known as the Garden City, whats the second most important town in Ghana? ",
+        "OPTION_A": "ACCRA",
+        "OPTION_C": "CAPE COAST",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "131": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "FOUTA DJALLON HIGHLANDS",
+        "NUMBER": "131",
+        "OPTION_B": "JOS PLATEAU",
+        "QUESTION": "The Niger river is one of the most important in the continent. Where is its source?",
+        "OPTION_A": "FOUTA DJALLON HIGHLANDS",
+        "OPTION_C": "NIMBA RANGE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "132": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "NAMIBIA",
+        "NUMBER": "132",
+        "OPTION_B": "ZAMBIA",
+        "QUESTION": "Which of these countries is not named after a river?",
+        "OPTION_A": "THE GAMBIA",
+        "OPTION_C": "NAMIBIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "133": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "LESOTHO",
+        "NUMBER": "133",
+        "OPTION_B": "LESOTHO",
+        "QUESTION": "What modern country used to be called Basutoland?",
+        "OPTION_A": "BOTSWANA",
+        "OPTION_C": "ZAMBIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "134": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "PORT HARCOURT",
+        "NUMBER": "134",
+        "OPTION_B": "MAIDUGURI",
+        "QUESTION": "What Nigerian city airport has been recently named after the late Chief Obafemi  Jeremiah Awolowo?",
+        "OPTION_A": "CALABAR",
+        "OPTION_C": "PORT HARCOURT",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "135": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "BECHUANALAND",
+        "NUMBER": "135",
+        "OPTION_B": "NYASALAND",
+        "QUESTION": "What was Botswana used to be called under British colonial rule? ",
+        "OPTION_A": "BECHUANALAND",
+        "OPTION_C": "NORTHERN RHODESIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "136": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "MALI",
+        "NUMBER": "136",
+        "OPTION_B": "MALI",
+        "QUESTION": "In 1960, French Sudan became an independent state under which official name? ",
+        "OPTION_A": "SENEGAL ",
+        "OPTION_C": "NIGER",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "137": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "BENIN",
+        "NUMBER": "137",
+        "OPTION_B": "SIERRA LEONE",
+        "QUESTION": "Which country celebrates the Ouidah Voodoo Day every year on January 10? ",
+        "OPTION_A": "BENIN",
+        "OPTION_C": "LIBERIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "138": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "LOANGO",
+        "NUMBER": "138",
+        "OPTION_B": "LOANGO",
+        "QUESTION": "What Gabonese National Park is hailed as Africa's last Eden?",
+        "OPTION_A": "IVINDO",
+        "OPTION_C": "AKANDA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "139": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "BOTSWANA",
+        "NUMBER": "139",
+        "OPTION_B": "SOUTH AFRICA",
+        "QUESTION": "The Okavango Delta is one of Africa's premiere natural wonders. Where is it located?",
+        "OPTION_A": "  NAMIBIA",
+        "OPTION_C": "BOTSWANA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "14": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "ABDULRAZAK GURNAH (TANZANIA)",
+        "NUMBER": "14",
+        "OPTION_B": "ABDULRAZAK GURNAH (TANZANIA)",
+        "QUESTION": "Among these authors, who was the last one to receive a Nobel Prize? ",
+        "OPTION_A": "NAGUIB MAHFOUZ (EGYPT)",
+        "OPTION_C": "NADINE GORDIMER (SOUTH AFRICA) ",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "140": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "DAKAR, SENEGAL",
+        "NUMBER": "140",
+        "OPTION_B": "BAMAKO, MALI",
+        "QUESTION": "Lake Retba, also known as Lac Rose, is a pink-colored body of water located near....",
+        "OPTION_A": "DAKAR, SENEGAL",
+        "OPTION_C": "OUGADOGOU, BURKINA FASO",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "141": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "UGANDA",
+        "NUMBER": "141",
+        "OPTION_B": "ZIMBABWE",
+        "QUESTION": "Where is the famous Makerere University, founded in 1922?",
+        "OPTION_A": "UGANDA",
+        "OPTION_C": "SUDAN",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "142": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "TANZANIA",
+        "NUMBER": "142",
+        "OPTION_B": "GHANA",
+        "QUESTION": "Ikulu is the name of the official residence of the President of which country?",
+        "OPTION_A": "TANZANIA",
+        "OPTION_C": "BURUNDI",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "143": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "ANGOLA",
+        "NUMBER": "143",
+        "OPTION_B": "ANGOLA",
+        "QUESTION": "The Lobito corridor, an important international economic hub is located in...",
+        "OPTION_A": "DRC",
+        "OPTION_C": "ZAMBIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "144": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "BIJAGOS",
+        "NUMBER": "144",
+        "OPTION_B": "BAZARUTO",
+        "QUESTION": "What archipiealago, off the coast of Guinea-Bissau, is compromised of around 88 islands?",
+        "OPTION_A": "MASCARENE",
+        "OPTION_C": "BIJAGOS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "145": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "MALABO, EQUATORIAL GUINEA",
+        "NUMBER": "145",
+        "OPTION_B": "LIBREVILLE, GABON",
+        "QUESTION": "Which international airport is designated as SSG (IATA) and FGSL (ICAO)",
+        "OPTION_A": "YAOUNDE, CAMERUN",
+        "OPTION_C": "MALABO, EQUATORIAL GUINEA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "146": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "COPPER",
+        "NUMBER": "146",
+        "OPTION_B": "PLATIINUM",
+        "QUESTION": "What kind of mineral is extracted at the Kansanshi mines in Zambia, the biggest of its kind in the world?",
+        "OPTION_A": "GOLD",
+        "OPTION_C": "COPPER",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "147": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "YAOUNDE, CAMEROON",
+        "NUMBER": "147",
+        "OPTION_B": "YAOUNDE, CAMEROON",
+        "QUESTION": "If you ever happen to land in Nsimalen airport, which city would you be  in? ",
+        "OPTION_A": "BANGUI, CAR",
+        "OPTION_C": "LUANDA, ANGOLA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "148": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "MADAGASCARA",
+        "NUMBER": "148",
+        "OPTION_B": "SEYCHELLES",
+        "QUESTION": "Where would you find the world-famous Avenue of the Baobabs?",
+        "OPTION_A": "COMOROS",
+        "OPTION_C": "MADAGASCARA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "149": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "SEYCHELLES",
+        "NUMBER": "149",
+        "OPTION_B": "CABO VERDE",
+        "QUESTION": "Victoria is the name of a lake in East Africa, but is also the capital of...",
+        "OPTION_A": "UGANDA",
+        "OPTION_C": "SEYCHELLES",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "15": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "CAMEROON",
+        "NUMBER": "15",
+        "OPTION_B": "CONGO",
+        "QUESTION": "The Poor Christ of Bomba, a fierce critique of colonialism, was written by Mongo Beti in 1956. Where was he from? ",
+        "OPTION_A": "CAMEROON",
+        "OPTION_C": "CHAD",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "150": {
+        "CATEGORY": "GEOGRAPHY",
+        "ANSWER": "MALI",
+        "NUMBER": "150",
+        "OPTION_B": "GHANA ",
+        "QUESTION": "Which of these countries is landlocked? ",
+        "OPTION_A": "MALI",
+        "OPTION_C": "SUDAN",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
+    },
+    "151": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "ALAOUITES",
+        "NUMBER": "151",
+        "OPTION_B": "ALAOUITES",
+        "QUESTION": "¿What's the current reigning dynasty in Morocco?",
+        "OPTION_A": "HASHEMITES",
+        "OPTION_C": "ALMORAVID",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "152": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "2011",
+        "NUMBER": "152",
+        "OPTION_B": "2015",
+        "QUESTION": "In what year did South Sudan became the youngest country in the world and the 193rd UN member? ",
+        "OPTION_A": "2005",
+        "OPTION_C": "2011",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "153": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "2002",
+        "NUMBER": "153",
+        "OPTION_B": "2002",
+        "QUESTION": "In what year was the Organization of African Unity formally dissolved?",
+        "OPTION_A": "2000",
+        "OPTION_C": "2010",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "154": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "TREATY OF PELINDABA",
+        "NUMBER": "154",
+        "OPTION_B": "TREATY OF PELINDABA",
+        "QUESTION": "What important convention aims to keep Africa as  Nuclear-Weapon-Free zone?",
+        "OPTION_A": "KIMBERLY PROCESS",
+        "OPTION_C": "EZULWINI CONSENSUS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "155": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "MEMBERS OF THE ANC",
+        "NUMBER": "155",
+        "OPTION_B": "PATRICE LUMUMBA AND CLOSEST AIDES",
+        "QUESTION": "Against whom were the famous Rivonia Trials levied in 1963-1964?",
+        "OPTION_A": "MEMBERS OF THE ANC",
+        "OPTION_C": "EMPEROR SALASSIE AND WIFE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "156": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": " CONAKRY ",
+        "NUMBER": "156",
+        "OPTION_B": "BISSAU",
+        "QUESTION": "On 28th September 2009, an indiscriminate massacre of 150 civilians took place at a stadium where? ",
+        "OPTION_A": " CONAKRY ",
+        "OPTION_C": "MALABO",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "157": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "THE AFRICA WE WANT",
+        "NUMBER": "157",
+        "OPTION_B": "THE AFRICA WE WANT",
+        "QUESTION": "¿According to the AU, what's coming in 2063?",
+        "OPTION_A": "CONTINENTAL FREE TRADE AREA",
+        "OPTION_C": "SILENCING THE GUNS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "158": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "THE SECOND LIBERIAN CIVIL WAR",
+        "NUMBER": "158",
+        "OPTION_B": "THE FIRST LIBERIAN CIVIL WAR",
+        "QUESTION": "What infamous conflict did the Accra Comprehensive Peace Agreement ended?",
+        "OPTION_A": "THE NIGERIAN CIVIL WAR",
+        "OPTION_C": "THE SECOND LIBERIAN CIVIL WAR",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "159": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "DESMOND TUTU",
+        "NUMBER": "159",
+        "OPTION_B": "WINNIE MANDELA",
+        "QUESTION": "Who presided over the Truth and Reconciliation Commission in 1995 South Africa? ",
+        "OPTION_A": "NELSON MANDELA",
+        "OPTION_C": "DESMOND TUTU",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "16": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "FATOU DIOME",
+        "NUMBER": "16",
+        "OPTION_B": "SONY LABOU TANSI",
+        "QUESTION": "\"The Belly of the Atlantic (2003)\" debunks contemporary African migration and diaspora. Who wrote it?",
+        "OPTION_A": "FATOU DIOME",
+        "OPTION_C": "AHMADOU KOUROUMA",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "160": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "GRACE MUGABE",
+        "NUMBER": "160",
+        "OPTION_B": "ELLEN MUGABE",
+        "QUESTION": "Who was the strong woman behind Robert Mugabe? ",
+        "OPTION_A": "GRACE MUGABE",
+        "OPTION_C": "MIRIAM MUGABE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "161": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "THE SIERRA LEONE CIVIL WAR",
+        "NUMBER": "161",
+        "OPTION_B": "THE SIERRA LEONE CIVIL WAR",
+        "QUESTION": "General Mosquito was a senior rebel officer who made a name for himself in which conflict?",
+        "OPTION_A": "THE FIRST CONGO WAR",
+        "OPTION_C": "THE ETHIOPIA-ERITREA WAR",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "162": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "LAURENT DESIRE KABILA",
+        "NUMBER": "162",
+        "OPTION_B": "MOBUTU SESE SEKO",
+        "QUESTION": "¿Whom did Rachidi Kasereka, a former child soldier, assasinated on January 16 2001 in his own office?",
+        "OPTION_A": "LAURENT DESIRE KABILA",
+        "OPTION_C": "ETIENNE TSHISEKEDI",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "163": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "CHARLES TAYLOR ",
+        "NUMBER": "163",
+        "OPTION_B": "CHARLES TAYLOR ",
+        "QUESTION": "Whom did this slogan refer to for an election campaign: \"You killed my ma, you killed my pa, I will vote for you\" ?",
+        "OPTION_A": "IDI AMIN DADA",
+        "OPTION_C": "HISSÈNE HABRÉ",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "164": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "USMAN DAN FODIO",
+        "NUMBER": "164",
+        "OPTION_B": "USMAN DAN FODIO",
+        "QUESTION": "What religious teacher, writer, and Islamic reformer founded the Sokoto Caliphate in what is now northern Nigeria?",
+        "OPTION_A": "MUHAMMED BELLO",
+        "OPTION_C": "ABU BAKR ATIKU",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "165": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "DAHOMEY",
+        "NUMBER": "165",
+        "OPTION_B": "CONGO ",
+        "QUESTION": "Where where the famous and formidable women warriors known as the African Amazons from? ",
+        "OPTION_A": "DAHOMEY",
+        "OPTION_C": "ZULULAND",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "166": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "HIS HALF BROTHERS",
+        "NUMBER": "166",
+        "OPTION_B": "HIS HALF BROTHERS",
+        "QUESTION": "Who killed King Shaka, the great zulu warrior in 1828?",
+        "OPTION_A": "HIS SON ",
+        "OPTION_C": "ONE OF HIS MULTIPLE WIVES",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "167": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "MOROCCO ",
+        "NUMBER": "167",
+        "OPTION_B": "MOROCCO ",
+        "QUESTION": "Abu Abdullah Muhammad Ibn Battuta, known simply as Ibn Battuta,  was a great explorer and scholar from...",
+        "OPTION_A": "ALGERIA",
+        "OPTION_C": "TUNISIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "168": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "NDONGO & MATAMBA",
+        "NUMBER": "168",
+        "OPTION_B": "CORISCO AND ELOBEY",
+        "QUESTION": "Queen Nzinga was an extraordinary leader of the 16th century who ruled over the kingdoms of... ",
+        "OPTION_A": "BENIN AND OYO",
+        "OPTION_C": "NDONGO & MATAMBA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "169": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "BRITISH VS BOERS",
+        "NUMBER": "169",
+        "OPTION_B": "ZULUS VS BOERS",
+        "QUESTION": "What factions fought each other during the South African War of 1899-1902?",
+        "OPTION_A": "BRITISH VS BOERS",
+        "OPTION_C": "ZULUS VS BRITISH",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "17": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "TAIYE SELASI",
+        "NUMBER": "17",
+        "OPTION_B": "PETINA GAPPAH",
+        "QUESTION": "\"Ghana Must Go\" is a multigenerational family saga by which Nigerian-Ghanaian author?",
+        "OPTION_A": "TAIYE SELASI",
+        "OPTION_C": "NOVIOLET BULAWAYO",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "170": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "PORTUGUESE",
+        "NUMBER": "170",
+        "OPTION_B": "PORTUGUESE",
+        "QUESTION": "Which Europeans were responsible for starting the triangular TranAtlantic Slave Trade?",
+        "OPTION_A": "BRITISH",
+        "OPTION_C": "DUTCH",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "171": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "THE STRUGGLE CONTINUES",
+        "NUMBER": "171",
+        "OPTION_B": "FORWARD EVER, BACKWARD NEVER,",
+        "QUESTION": "What war cry is famously associated with Samora Machel, first president of Mozambique?",
+        "OPTION_A": "THE STRUGGLE CONTINUES",
+        "OPTION_C": "HOMELAND OR DEATH",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "172": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "UNITA",
+        "NUMBER": "172",
+        "OPTION_B": "MPLA",
+        "QUESTION": "Jonas Savimbi was the leader of what faction of the long and brutal Angolan civil war?",
+        "OPTION_A": "FRELIMO",
+        "OPTION_C": "UNITA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "173": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "BARCELONA, SPAIN",
+        "NUMBER": "173",
+        "OPTION_B": "TOLOUSE, FRANCE",
+        "QUESTION": "Omar Bongo Ondimba passed away on June 8, 2009 in a hospital in which European city?",
+        "OPTION_A": "ZURICH, SWITZERLAND",
+        "OPTION_C": "BARCELONA, SPAIN",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "174": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "ENTEBBE, UGANDA",
+        "NUMBER": "174",
+        "OPTION_B": "MOMBASA, KENIA",
+        "QUESTION": "On which East African city did Israeli Forces conducted a succesful hostage rescue mission on July 4, 1976?",
+        "OPTION_A": "ENTEBBE, UGANDA",
+        "OPTION_C": "DODOMA, TANZANIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "175": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "AL QAEDA",
+        "NUMBER": "175",
+        "OPTION_B": "AL QAEDA",
+        "QUESTION": "Who was responsible for the simultaneous bombing of US Embassies in Kenya and Tanzania on August 7, 1998?",
+        "OPTION_A": "AL SHABAB",
+        "OPTION_C": "BLACK SEPTEMBER",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "176": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "OTTO VON BISMARCK",
+        "NUMBER": "176",
+        "OPTION_B": "NAPOLEON",
+        "QUESTION": "Who directed the infamous Berlin Conference of 1884 where Africa was carved among European powers?",
+        "OPTION_A": "DAVID LIVINGSTONE",
+        "OPTION_C": "OTTO VON BISMARCK",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "177": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "THE ROSETTA STONE",
+        "NUMBER": "177",
+        "OPTION_B": "THE ROSETTA STONE",
+        "QUESTION": "What consequential artifact did Napoleonic forces steal from Egypt in 1799?",
+        "OPTION_A": "THE SARCOPHAGUS OF AMUN",
+        "OPTION_C": " THE  MASK OF TUTANKHAMUN",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "178": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "IMHOTEP",
+        "NUMBER": "178",
+        "OPTION_B": " CHEOPS",
+        "QUESTION": "What ancient Egyptian figure is renown for his excellent skill in medicine, architecture and engineering? ",
+        "OPTION_A": "IMHOTEP",
+        "OPTION_C": "AKHENATEN I",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "179": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "OLAUDAH EQUIANO",
+        "NUMBER": "179",
+        "OPTION_B": "OLAUDAH EQUIANO",
+        "QUESTION": "With which other non-slave name was Gustavus Vassa most known as? ",
+        "OPTION_A": "MARCUS GARVEY",
+        "OPTION_C": "SAMUEL AJAYI CROWTHER ",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "18": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "EQUATORIAL GUINEA",
+        "NUMBER": "18",
+        "OPTION_B": "EQUATORIAL GUINEA",
+        "QUESTION": "Donato Ndongo Biyogo is one of the most important authors in which country?",
+        "OPTION_A": "GUINEA BISSAU",
+        "OPTION_C": "SAO TOME & PRINCIPE",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "180": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "MACIAS NGUEMA BIYOGO",
+        "NUMBER": "180",
+        "OPTION_B": "ATANASIO NDONG MIYONE",
+        "QUESTION": "Who was the first President of Equatorial Guinea (1968-1979)?",
+        "OPTION_A": "EDMUNDO BOSIO DIOKO",
+        "OPTION_C": "MACIAS NGUEMA BIYOGO",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "181": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "ALGERIA",
+        "NUMBER": "181",
+        "OPTION_B": "ALGERIA",
+        "QUESTION": "Which North African country gained its independence as a result of the \"Evian Accords\"?",
+        "OPTION_A": "MOROCCO",
+        "OPTION_C": "MAURITANIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "182": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "MOGADISHU, SOMALIA",
+        "NUMBER": "182",
+        "OPTION_B": "ASMARA, ERITREA",
+        "QUESTION": "Where was an American Black Hawk helicopter famously brought down in October 1993?",
+        "OPTION_A": "LUMUMBASHI, DRC",
+        "OPTION_C": "MOGADISHU, SOMALIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "183": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "SAMUEL K DOE",
+        "NUMBER": "183",
+        "OPTION_B": "SAMUEL K DOE",
+        "QUESTION": "Prince Yormie Johnson was televised casually sipping beer while supervising the killing of what Liberian President?",
+        "OPTION_A": "WILLIAM TOLBET JR",
+        "OPTION_C": "WILLIAM V.S TUBMAN",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "184": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "PHILIP EFFIONG",
+        "NUMBER": "184",
+        "OPTION_B": "COL. JOE ACHUZIA",
+        "QUESTION": "Who took over from General Ojukwu when he escaped Biafra during the Nigerian Civil War? ",
+        "OPTION_A": "PHILIP EFFIONG",
+        "OPTION_C": "TIMOTHY ONWUATUEGWU",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "185": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "LIBERIA",
+        "NUMBER": "185",
+        "OPTION_B": "LIBERIA",
+        "QUESTION": "This country holds the honor of being Africa's oldest Republic, established in 1821",
+        "OPTION_A": "ETHIOPIA",
+        "OPTION_C": "GHANA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "186": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "GAMBIA",
+        "NUMBER": "186",
+        "OPTION_B": "MALAWI",
+        "QUESTION": "What country was led by Sir Dawda Jawara from its independence in 1970 to 1994, when he was deposed?",
+        "OPTION_A": "GAMBIA",
+        "OPTION_C": "DJIBOUTI",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "187": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "1914",
+        "NUMBER": "187",
+        "OPTION_B": "1934",
+        "QUESTION": "In which year did the amalgamation of Nigeria  into a single political unit took place?",
+        "OPTION_A": "1914",
+        "OPTION_C": "1960",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "188": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "KEN SARO WIWA",
+        "NUMBER": "188",
+        "OPTION_B": "FELA KUTI",
+        "QUESTION": "Which Nigerian activist founded the Movement for the Survival of the Ogoni People (MOSOP) and died for it?",
+        "OPTION_A": "NNAMDI KANU",
+        "OPTION_C": "KEN SARO WIWA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "189": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "CAMEROON",
+        "NUMBER": "189",
+        "OPTION_B": "CAMEROON",
+        "QUESTION": "Marthe Ekemeyong Moumié (September 4, 1931 – January 9, 2009) was an anti-colonialist writer and activist from where?",
+        "OPTION_A": "GABON",
+        "OPTION_C": "CONGO",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "19": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "LEANDRO MBOMIO NSUE",
+        "NUMBER": "19",
+        "OPTION_B": "BEN ENWONWU",
+        "QUESTION": "What Equatorial Guinean sculptor was nicknamed The Black Picasso?",
+        "OPTION_A": "LEANDRO MBOMIO NSUE",
+        "OPTION_C": "GONZALO MABUNDA",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "190": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "DR. LIVINGSTONE I PRESUME",
+        "NUMBER": "190",
+        "OPTION_B": "THE WORLD THINKS YOU ARE DEAD",
+        "QUESTION": "What words did Stanley famously uttered when he finally found  Dr. Livingstone on the shores of Lake Tanganyika?",
+        "OPTION_A": "SO THIS IS WHERE YOU'VE BEEN HIDING ALL ALONG",
+        "OPTION_C": "DR. LIVINGSTONE I PRESUME",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "191": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "IAN SMITH",
+        "NUMBER": "191",
+        "OPTION_B": "IAN SMITH",
+        "QUESTION": "Who preceded Robert Mugabe as Prime Minister of Rhodesia?",
+        "OPTION_A": "PAUL KRUGGER",
+        "OPTION_C": "JOSHUA NKOMO",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "192": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "ZIMBABWE",
+        "NUMBER": "192",
+        "OPTION_B": "ZIMBABWE",
+        "QUESTION": "In which country did the Lancaster House Agreement pave the way for transition to majority rule?",
+        "OPTION_A": "KENIA",
+        "OPTION_C": "BOTSWANA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "193": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "LIT.GEN JOSEPH ARTHUR ANKRAH",
+        "NUMBER": "193",
+        "OPTION_B": "COL. IGNATIUS KUTU ACHEAMPONG",
+        "QUESTION": "Who ruled in Ghana immediately after the forced removal of Kwameh Nkrumah? ",
+        "OPTION_A": "LIT.GEN JOSEPH ARTHUR ANKRAH",
+        "OPTION_C": " FLIGHT LIET. JERRY JOHN RAWLINGS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "194": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "KING LEOPOLD II OF BELGIUM",
+        "NUMBER": "194",
+        "OPTION_B": "KING BAUDOUIN I OF BELGIUM ",
+        "QUESTION": "What European ruler savagely exploited the Congo Free State as his own personal colony?",
+        "OPTION_A": "KING LEOPOLD II OF BELGIUM",
+        "OPTION_C": "KING LEOPOLD I OF BELGIUM",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "195": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "GNASSINGBÉ EYADÉMA",
+        "NUMBER": "195",
+        "OPTION_B": "AHMED SEKOU TOURE",
+        "QUESTION": "On February 5, 2005, this Head of State died on an aircraft while en route to France for emergency medical treatment",
+        "OPTION_A": "GNASSINGBÉ EYADÉMA",
+        "OPTION_C": "FAURE GNASSINGBÉ",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "196": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "THEY'RE MONARCHIES",
+        "NUMBER": "196",
+        "OPTION_B": "THEY'RE MONARCHIES",
+        "QUESTION": "What do Morocco, Eswatini and Lesotho have in common?",
+        "OPTION_A": "THEY'RE LANDLOCKED",
+        "OPTION_C": "THEY'RE EXPELLED FROM THE AU",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "197": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "TUNISIA",
+        "NUMBER": "197",
+        "OPTION_B": "LIBYA",
+        "QUESTION": "Where did the Arab Spring started in December 2010?",
+        "OPTION_A": "EGYPT",
+        "OPTION_C": "TUNISIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "198": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "KING IDRIS I",
+        "NUMBER": "198",
+        "OPTION_B": "KING IDRIS I",
+        "QUESTION": "What monarch did a young Muammar Gadaffi overthrew on September 1, 1969?",
+        "OPTION_A": "KING MEHMET II",
+        "OPTION_C": "KING ABDALAH III",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "199": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "CAMP DAVID ACCORDS",
+        "NUMBER": "199",
+        "OPTION_B": "OSLO ACCORDS",
+        "QUESTION": "What peace treaty with Israel costed President Anwar Sadat of Egypt his life in 1981? ",
+        "OPTION_A": "CAMP DAVID ACCORDS",
+        "OPTION_C": "GAZA ACCORDS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "2": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "AS A DISGRACE",
+        "NUMBER": "2",
+        "OPTION_B": "AS A DISGRACE",
+        "QUESTION": "In his 1999 book of the same name, J.M. Coetzee described Apartheid society as a what... ",
+        "OPTION_A": "AS A SHAME",
+        "OPTION_C": "AS A TRAGEDY",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "20": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "KENTE ",
+        "NUMBER": "20",
+        "OPTION_B": "KENTE ",
+        "QUESTION": "What Ghanaian cloth known for its colorful geometric patterns  holds symbolic meaning within the Ashanti culture?",
+        "OPTION_A": "DASHIKI",
+        "OPTION_C": "BOGOLANFINI",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "200": {
+        "CATEGORY": "HISTORY",
+        "ANSWER": "JOHN GARANG",
+        "NUMBER": "200",
+        "OPTION_B": "JOHN GARANG",
+        "QUESTION": "Which  leader died in a helicopter crash on July 30, 2005, shortly after signing a treaty ending the II Sudanese Civil War",
+        "OPTION_A": "RIEK MACHAR",
+        "OPTION_C": "SALVA KIRR MAYARDIT",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/History.png"
+    },
+    "201": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "HERBERT WIGWE",
+        "NUMBER": "201",
+        "OPTION_B": "HERBERT WIGWE",
+        "QUESTION": "Which Nigerian top banker and CEO tragically died in a helicopter crash in California, on Feb 11 2024?",
+        "OPTION_A": "TUNDE AYENI",
+        "OPTION_C": "ABIMBOLA OGUNBANJO",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "202": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "ZOZIBINI TUNZI  (SOUTH AFRICA)",
+        "NUMBER": "202",
+        "OPTION_B": "ZOZIBINI TUNZI  (SOUTH AFRICA)",
+        "QUESTION": "Who is the most recent African to win the Miss Universe title?",
+        "OPTION_A": "DIANA HINESTROSA (EQUATORIAL GUINEA)",
+        "OPTION_C": "MPULE KWELAGOBE (BOTSWANA)",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "203": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "NKOSAZANA DLAMINI-ZUMA",
+        "NUMBER": "203",
+        "OPTION_B": "NKOSAZANA DLAMINI-ZUMA",
+        "QUESTION": "Who preceded Moussa Faki Mahamat as Chairperson of the African Union Commission?",
+        "OPTION_A": "JEAN PING",
+        "OPTION_C": "KOFI ANNAN",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "204": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "AFRICAN DEVELOPMENT BANK",
+        "NUMBER": "204",
+        "OPTION_B": "AFRICAN CENTER FOR DISEASE CONTROL",
+        "QUESTION": "Which progressive international institution has Dr. Akinwumi Adesina been leading since 2015?",
+        "OPTION_A": "AFRICAN DEVELOPMENT BANK",
+        "OPTION_C": "ECOWAS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "205": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "WAMKELE MENE",
+        "NUMBER": "205",
+        "OPTION_B": "TIDJANE THIAM",
+        "QUESTION": "Who is the first and current Secretary General of the African Free Continental Trade Area. (AfCFTA)?",
+        "OPTION_A": "WAMKELE MENE",
+        "OPTION_C": "NGOZI OKONJO-IWEALA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "206": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "NGOZI OKONJO-IWEALA ",
+        "NUMBER": "206",
+        "OPTION_B": "NGOZI OKONJO-IWEALA ",
+        "QUESTION": "What former Finance Minister of Nigeria was appointed as Director General of the World Trade Organisation in 2021?",
+        "OPTION_A": "DIEZANI ALISON-MADUEKE",
+        "OPTION_C": "AMINA J. MOHAMMED",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "207": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "COMOROS",
+        "NUMBER": "207",
+        "OPTION_B": "SEYCHELLES",
+        "QUESTION": "H.E Azali Assoumani,  who was recently stabbed by a mourner, is the President of which island nation?",
+        "OPTION_A": "COMOROS",
+        "OPTION_C": "MAURITIUS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "208": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "BOKO HARAM ",
+        "NUMBER": "208",
+        "OPTION_B": "BOKO HARAM ",
+        "QUESTION": "What infamous group was founded in 2002 and led until his death in 2009 by the notorious Mohammed Yussuf? ",
+        "OPTION_A": "AL SHABAB",
+        "OPTION_C": "ISIS-WEST AFRICA PROVINCE (ISWAP) ",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "209": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "CHIBOK, BORNO STATE",
+        "NUMBER": "209",
+        "OPTION_B": "BAGWAI, KANO STATE",
+        "QUESTION": "In 2014 the kidnapping of dozens of schoolgirls in northern Nigeria by Boko Haram sparked international indignation. Where were they from?",
+        "OPTION_A": "LERE, KADUNA STATE",
+        "OPTION_C": "CHIBOK, BORNO STATE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "21": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "NOK",
+        "NUMBER": "21",
+        "OPTION_B": "NOK",
+        "QUESTION": "What ancient civilization is famous for its terracotta sculptures that date back to around 1000 BCE?",
+        "OPTION_A": "BENIN",
+        "OPTION_C": "DOGON",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "210": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "CABO DELGADO",
+        "NUMBER": "210",
+        "OPTION_B": "TETE",
+        "QUESTION": "What Mozambican gas-rich province has been suffering terror attacks by an Islamic organization called Ansar al-Sunna? ",
+        "OPTION_A": "CABO DELGADO",
+        "OPTION_C": "GAZA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "211": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "EGYPT",
+        "NUMBER": "211",
+        "OPTION_B": "EGYPT",
+        "QUESTION": "What country has the largest military in terms of active personnel?",
+        "OPTION_A": "KENYA",
+        "OPTION_C": "SOUTH AFRICA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "212": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "HUSHPUPPI",
+        "NUMBER": "212",
+        "OPTION_B": "ABBA KYARI",
+        "QUESTION": "Under what other name was Ramon Olorunwa Abbas, criminal mastermind and socialite, most known as?",
+        "OPTION_A": "HUSHPUPPI",
+        "OPTION_C": "OBI CUBANA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "213": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "BRICE OLIGUI NGUEMA",
+        "NUMBER": "213",
+        "OPTION_B": " ASSIMI GOITA",
+        "QUESTION": "What military leader led a bloodless coup d'etat in Libreville in August 2023, deposing Ali Bongo Ondimba? ",
+        "OPTION_A": "MAMADY DOUMBOUYA",
+        "OPTION_C": "BRICE OLIGUI NGUEMA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "214": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "OBIANG NGUEMA OF EQUATORIAL GUINEA",
+        "NUMBER": "214",
+        "OPTION_B": "OBIANG NGUEMA OF EQUATORIAL GUINEA",
+        "QUESTION": "Who is the longest serving Head of State in Africa (since 1979)?",
+        "OPTION_A": "PAUL BIYA OF CAMEROON",
+        "OPTION_C": "YOWERI MUSEVENI OF UGANDA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "215": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "NOBEL PEACE PRIZE",
+        "NUMBER": "215",
+        "OPTION_B": "NOBEL PEACE PRIZE",
+        "QUESTION": "What prestigious international award did Denis Mukwege won in 2019?",
+        "OPTION_A": "PULLITZER PRIZE",
+        "OPTION_C": "MICHELIN STAR",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "216": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "KENIA",
+        "NUMBER": "216",
+        "OPTION_B": "KENIA",
+        "QUESTION": "On 10th March 2019 Ethiopian Airlines flight 302 crashed 6 minutes after takeoff, killing all 157 people on board. Where was it heading to? ",
+        "OPTION_A": "EGYPT",
+        "OPTION_C": "SOUTH AFRICA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "217": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "DJIBOUTI",
+        "NUMBER": "217",
+        "OPTION_B": "SUDAN",
+        "QUESTION": "Where are the headquarters of IGAD,  the Intergovernmental Authority on Development ?",
+        "OPTION_A": "DJIBOUTI",
+        "OPTION_C": "KENYA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "218": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "PETER OBI",
+        "NUMBER": "218",
+        "OPTION_B": "PETER OBI",
+        "QUESTION": "Which former Governor of Anambra State contested the 2023 Nigerian Presidential Elections under the Labor Party? ",
+        "OPTION_A": "ATIKU ABUBAKAR",
+        "OPTION_C": "BOLA AHMED TINUBU",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "219": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "PAP NDIAYE",
+        "NUMBER": "219",
+        "OPTION_B": "RACHIDA DATI",
+        "QUESTION": "Which senegalese historian and academic was appointed Minister of Education and Youth by President Macron in 2022?",
+        "OPTION_A": " LAURA FLESSEL-COLOVIC",
+        "OPTION_C": "PAP NDIAYE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "22": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "NIGER",
+        "NUMBER": "22",
+        "OPTION_B": "MAURITANIA",
+        "QUESTION": "In which Sahelian country would you find the ancient Dabous Giraffe Petroglyphs?",
+        "OPTION_A": "MALI",
+        "OPTION_C": "NIGER",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "220": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "TIGRAY",
+        "NUMBER": "220",
+        "OPTION_B": "TIGRAY",
+        "QUESTION": "What Ethiopian region rebelled against the central Government in 2002, triggering a two-year civil war?",
+        "OPTION_A": "OROMIA",
+        "OPTION_C": "AMHARA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "221": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "RAPID SUPPORT FORCES",
+        "NUMBER": "221",
+        "OPTION_B": "SUDANESE ARMED FORCES",
+        "QUESTION": "What faction of the ongoing Sudanese war does Mohamed Hamdan Dagalo,alias Hemedti, commands? ",
+        "OPTION_A": "RAPID SUPPORT FORCES",
+        "OPTION_C": "SUDAN LIBERATION ARMY",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "222": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "STANDARD BANK",
+        "NUMBER": "222",
+        "OPTION_B": "STANDARD BANK",
+        "QUESTION": "Consistently across the years, this financial group has been named the largest bank in the continent",
+        "OPTION_A": "NATIONAL BANK OF EGYPT",
+        "OPTION_C": "ABSA GROUP",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "223": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "TANZANIA",
+        "NUMBER": "223",
+        "OPTION_B": "SOMALIA",
+        "QUESTION": "Where is Samia Suhulu Hassan the first female President of (since 2021), after the sudden death of her predecessor??",
+        "OPTION_A": "ZAMBIA",
+        "OPTION_C": "TANZANIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "224": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "CENTRAL AFRICAN REPUBLIC",
+        "NUMBER": "224",
+        "OPTION_B": "CENTRAL AFRICAN REPUBLIC",
+        "QUESTION": "The Séleka was an alliance of rebel militia groups that subjugated which Central African country?",
+        "OPTION_A": "CHAD",
+        "OPTION_C": "REPUBLIC OF THE CONGO",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "225": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "JOVENEL MOISE",
+        "NUMBER": "225",
+        "OPTION_B": "MICHELLE MARTELLY",
+        "QUESTION": "What Haitian president was vilely assassinated on on July 7 2021 on his Pétion-Ville residence",
+        "OPTION_A": "JEAN-BERTRAND ARISTIDE",
+        "OPTION_C": "JOVENEL MOISE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "226": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "AGOA",
+        "NUMBER": "226",
+        "OPTION_B": "AGOA",
+        "QUESTION": "What 2000 US trade program provides eligible African countries with duty-free access to the US domestic market?  ",
+        "OPTION_A": "PEPFAR",
+        "OPTION_C": "POWER AFRICA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "227": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "LIBERIA",
+        "NUMBER": "227",
+        "OPTION_B": "BOTSWANA",
+        "QUESTION": "In 2024 Joseph Boakai became the 26th President of which country?",
+        "OPTION_A": "MALAWI",
+        "OPTION_C": "LIBERIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "228": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "TELECOM",
+        "NUMBER": "228",
+        "OPTION_B": "AGRICULTURE",
+        "QUESTION": "Egyptian magnate Naguib Sawiris is one of Africa's richest man. What's the source of his wealth? ",
+        "OPTION_A": "MINING",
+        "OPTION_C": "TELECOM",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "229": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "ZIMBABWE",
+        "NUMBER": "229",
+        "OPTION_B": "ZIMBABWE",
+        "QUESTION": "Strive Masiyiwa is another of Africa's top billionaires. Although he is based in London, where's he originally from?",
+        "OPTION_A": "SOUTH AFRICA",
+        "OPTION_C": "KENYA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "23": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "TAYEB SALIH",
+        "NUMBER": "23",
+        "OPTION_B": "AMIR TAJ",
+        "QUESTION": "\"Season of Migration to the North\" is a 1966 novel by Sudanese writer...",
+        "OPTION_A": "TAYEB SALIH",
+        "OPTION_C": "RANIA MAMOUN",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "230": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "EVERYWHERE YOU GO",
+        "NUMBER": "230",
+        "OPTION_B": "EVERYWHERE YOU GO",
+        "QUESTION": "Where is MTN?",
+        "OPTION_A": "MT WHAT?",
+        "OPTION_C": "SANDTON, SOUTH AFRICA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "231": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "MOROCCAN DIRHAM ",
+        "NUMBER": "231",
+        "OPTION_B": "MOROCCAN PESO",
+        "QUESTION": "What currency is used in Morocco?",
+        "OPTION_A": "MOROCCAN DIRHAM ",
+        "OPTION_C": "MOROCCAN POUND",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "232": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "TUNISIAN DINAR ",
+        "NUMBER": "232",
+        "OPTION_B": "TUNISIAN DINAR ",
+        "QUESTION": "Among these three currencies, which one is usually stronger against the US Dolar?",
+        "OPTION_A": "BOTSWANA PULA",
+        "OPTION_C": "EGYPTIAN POUND",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "233": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "SEYCHELLES ",
+        "NUMBER": "233",
+        "OPTION_B": "MAURITIUS",
+        "QUESTION": "With a GDP per cápita of $21,580, which African country led the ranking of this category in 2023?",
+        "OPTION_A": "SEYCHELLES ",
+        "OPTION_C": "EQUATORIAL GUINEA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "234": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "SOUTH AFRICA",
+        "NUMBER": "234",
+        "OPTION_B": "SOUTH AFRICA",
+        "QUESTION": "What country is the S, in the BRICS alliance?",
+        "OPTION_A": "SIERRA LEONE",
+        "OPTION_C": "SOMALIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "235": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "FAMINE IN SUDAN",
+        "NUMBER": "235",
+        "OPTION_B": "FAMINE IN BIAFRA",
+        "QUESTION": "\"The vulture and the little girl\" by Kevin Carter is one of Africa's most iconic photos. Where was it taken",
+        "OPTION_A": "FAMINE IN SUDAN",
+        "OPTION_C": "FAMINE IN ETHIOPIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "236": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "LILANGENI",
+        "NUMBER": "236",
+        "OPTION_B": "PULA",
+        "QUESTION": "What's the currency used in Eswatini?",
+        "OPTION_A": "LILANGENI",
+        "OPTION_C": "KWACHA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "237": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "MOZAMBIQUE",
+        "NUMBER": "237",
+        "OPTION_B": "NAMIBIA",
+        "QUESTION": "Which country conducts economic transactions in Meticals ?",
+        "OPTION_A": "ANGOLA",
+        "OPTION_C": "MOZAMBIQUE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "238": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "CLUB QUILOX",
+        "NUMBER": "238",
+        "OPTION_B": "H2O NIGHTCLUB ",
+        "QUESTION": "This nightclub in Victoria Island, Lagos, Nigeria is often marketed as the largest in the continent",
+        "OPTION_A": "CLUB QUILOX",
+        "OPTION_C": "TABOO NIGHTCLUB",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "239": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "KIRIKIRI",
+        "NUMBER": "239",
+        "OPTION_B": "BLACK BEACH",
+        "QUESTION": "What maximum security prison, Africa's largest is located in the Apapa district of Lagos, Nigeria?",
+        "OPTION_A": "ROBBEN ISLAND ",
+        "OPTION_C": "KIRIKIRI",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "24": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "DAKAR, SENEGAL",
+        "NUMBER": "24",
+        "OPTION_B": "BAMAKO, MALI",
+        "QUESTION": "Wheres does the Biennale of Contemporary African Art festival takes place? ",
+        "OPTION_A": "DAKAR, SENEGAL",
+        "OPTION_C": "ABIDJAN, CIV",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "240": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "AN AK 47",
+        "NUMBER": "240",
+        "OPTION_B": "A FLYING CARPET",
+        "QUESTION": "What symbol on the flag of Mozambique makes it unique among national flags?",
+        "OPTION_A": "AN AK 47",
+        "OPTION_C": "A DOG",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "241": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "UGANDA",
+        "NUMBER": "241",
+        "OPTION_B": "BURUNDI",
+        "QUESTION": "Which country's coat of arms features two snow-capped mountains that represent the nation's highest peaks?",
+        "OPTION_A": "TANZANIA",
+        "OPTION_C": "UGANDA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "242": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "SOUTH AFRICA",
+        "NUMBER": "242",
+        "OPTION_B": "GHANA",
+        "QUESTION": "Where is the renown Rooibos herbal tea from?",
+        "OPTION_A": "NAMIBIA",
+        "OPTION_C": "SOUTH AFRICA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "243": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "GHANA",
+        "NUMBER": "243",
+        "OPTION_B": "GAMBIA",
+        "QUESTION": "The Banku is a staple in the national cuisine of which West African country?",
+        "OPTION_A": "GHANA",
+        "OPTION_C": "GUINEA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "244": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "NINE HOURS AND A HALF",
+        "NUMBER": "244",
+        "OPTION_B": "SEVEN HOURS",
+        "QUESTION": "Approximately, how long would a direct flight from Cape Town to Cairo last?",
+        "OPTION_A": "NINE HOURS AND A HALF",
+        "OPTION_C": "TWELVE HOURS AND A HALF",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "245": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "GHANA",
+        "NUMBER": "245",
+        "OPTION_B": "KENYA",
+        "QUESTION": "Rebecca Akufo-Addo was the celebrated First Lady of what west African country?",
+        "OPTION_A": "NIGERIA",
+        "OPTION_C": "GHANA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "246": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": " 1,515,140,849",
+        "NUMBER": "246",
+        "OPTION_B": " 1,805,320,849",
+        "QUESTION": "What's the 2024 estimate for the population of the continent? ",
+        "OPTION_A": " 1,515,140,849",
+        "OPTION_C": " 2,013,930,849",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "247": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "NIGER",
+        "NUMBER": "247",
+        "OPTION_B": "BURKINA FASO",
+        "QUESTION": "Until quite recently Mohamed Bazoum was the leader of which uranium-rich former French colony?",
+        "OPTION_A": "CENTRAL AFRICAN REPUBLIC",
+        "OPTION_C": "NIGER",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "248": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "FOLORUNSO ALAKIJA (NIGERIA)",
+        "NUMBER": "248",
+        "OPTION_B": "FOLORUNSO ALAKIJA (NIGERIA)",
+        "QUESTION": "Whom did Forbes crown as Africa's richest woman of 2024?",
+        "OPTION_A": " BRIDGETTE RADEBE (SOUTH AFRICA)",
+        "OPTION_C": "ISABEL DOS SANTOS (ANGOLA)",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "249": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "SYNAGOGUE: CHURCH OF ALL NATIONS",
+        "NUMBER": "249",
+        "OPTION_B": "LOVEWORLD INC (CHRIST EMBASSY)",
+        "QUESTION": "What ministry did the late TB Joshua founded, led, and expanded worldwide from Lagos, Nigeria?",
+        "OPTION_A": "SYNAGOGUE: CHURCH OF ALL NATIONS",
+        "OPTION_C": "DEEPER LIFE BIBLE CHURCH",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "25": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "SINDIKA DOKOLO",
+        "NUMBER": "25",
+        "OPTION_B": "AUGUSTIN DOKOLO",
+        "QUESTION": "What great collector from DRC/Angola dedicated his life to repatriating stolen African art?",
+        "OPTION_A": "JOSE FILOMENO DOS SANTOS",
+        "OPTION_C": "SINDIKA DOKOLO",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "250": {
+        "CATEGORY": "MISCELLANEOUS",
+        "ANSWER": "ALPH LUKAU",
+        "NUMBER": "250",
+        "OPTION_B": "BISHOP DAVID OYEDEPO",
+        "QUESTION": "What pastor, leader of Alleluia Ministries International, claimed to have brought a person back from the dead in 2019? ",
+        "OPTION_A": "SHEPHERD BUSHIRI ",
+        "OPTION_C": "ALPH LUKAU",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"
+    },
+    "251": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "MOROCCO ",
+        "NUMBER": "251",
+        "OPTION_B": "MOROCCO ",
+        "QUESTION": "Which African country was the first to qualify for the FIFA World Cup in 1970?",
+        "OPTION_A": "NIGERIA",
+        "OPTION_C": "ZAMBIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "252": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "TOUT PUISSANT MAZEMBE",
+        "NUMBER": "252",
+        "OPTION_B": "CANON YAOUNDE",
+        "QUESTION": "What local Lubumbashi club has established itself as one of Africa's most successful soccer teams? ",
+        "OPTION_A": "TOUT PUISSANT MAZEMBE",
+        "OPTION_C": "RAJA CASABLANCA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "253": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "KAIZER CHIEFS",
+        "NUMBER": "253",
+        "OPTION_B": "KAIZER CHIEFS",
+        "QUESTION": "Which soccer club, nicknamed the Amakhosi, is South Africa's most laureated team? ",
+        "OPTION_A": "ORLANDO PIRATES",
+        "OPTION_C": "MAMELODI SUNDOWNS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "254": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "RUGBY",
+        "NUMBER": "254",
+        "OPTION_B": "RUGBY",
+        "QUESTION": "What sport do the South African Springboks excel at?",
+        "OPTION_A": "BASKETBALL",
+        "OPTION_C": "CRICKET",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "255": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "ONS JABEUR ",
+        "NUMBER": "255",
+        "OPTION_B": "AYA EL AOUNI ",
+        "QUESTION": "Who is the highest-ranked African female tennis player in history, reaching a career-high of No. 2 in the WTA rankings?",
+        "OPTION_A": "ONS JABEUR ",
+        "OPTION_C": "ISABELLA KRUGER ",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "256": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "STEPHEN KESI",
+        "NUMBER": "256",
+        "OPTION_B": "JUAN MICHA",
+        "QUESTION": "What coach is hailed as one of Africa's greatest after coaching Togo, Mali and Nigeria national teams?",
+        "OPTION_A": "STEPHEN KESI",
+        "OPTION_C": "ALIOU CISSE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "257": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "CAMEROON",
+        "NUMBER": "257",
+        "OPTION_B": "COTE D'IVOIRE",
+        "QUESTION": "Joseph-Antoine Bell is one of Africa's most iconic goalkeepers. Where is he from?",
+        "OPTION_A": "SENEGAL",
+        "OPTION_C": "CAMEROON",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "258": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "KOLO & YAYA TOURE",
+        "NUMBER": "258",
+        "OPTION_B": "EVANS & GEOFFREY KONDOGBIA ",
+        "QUESTION": "Which two brothers played together at both Manchester city and Cote d'Ivoire national team?",
+        "OPTION_A": "KOLO & YAYA TOURE",
+        "OPTION_C": "ANDRÉ & JORDAN AYEW",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "259": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "ABEDI PELE",
+        "NUMBER": "259",
+        "OPTION_B": "DITO BOLO",
+        "QUESTION": "What midfielder, known for his skills, vision and intelligence won the Champions League with Marseille in 1993? ",
+        "OPTION_A": "ABEDI PELE",
+        "OPTION_C": "CYRILLE MAKANAKY",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "26": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "EDO ",
+        "NUMBER": "26",
+        "OPTION_B": "YOA-LOKPA",
+        "QUESTION": "What people of present-day Nigeria crafted the famous Benin bronzes?",
+        "OPTION_A": "EDO ",
+        "OPTION_C": "IBIBIO",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "260": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "CAMEROONIAN",
+        "NUMBER": "260",
+        "OPTION_B": "CAMEROONIAN",
+        "QUESTION": "Yannick Noah is a respected former tennis player (and singer) of French nationality but what origin...",
+        "OPTION_A": "MALIAN",
+        "OPTION_C": "GABONESE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "261": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "SUNDAY OLISEH",
+        "NUMBER": "261",
+        "OPTION_B": "MICHAEL ESSIEN",
+        "QUESTION": "Which of these players has never played for Real Madrid, the best club in the world? ",
+        "OPTION_A": "EMMANUEL ADEBAYOR",
+        "OPTION_C": "SUNDAY OLISEH",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "262": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "MOHAMMED SALA",
+        "NUMBER": "262",
+        "OPTION_B": "MOHAMMED SALA",
+        "QUESTION": "Who is Africa’s top scorer in the history of the English Premier League?",
+        "OPTION_A": "DIDIER DROGBA",
+        "OPTION_C": "EMMANUEL ADEBAYOR ",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "263": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "DIKEMBE MUTOMBO ",
+        "NUMBER": "263",
+        "OPTION_B": "BISMACK BIYOMBO",
+        "QUESTION": "Which NBA superstar was known for his shot-blocking ability and his signature finger wag after blocking shots?",
+        "OPTION_A": "HAKEEM OLAJUWON",
+        "OPTION_C": "DIKEMBE MUTOMBO ",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "264": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "HAKEEM OLAJUWON",
+        "NUMBER": "264",
+        "OPTION_B": "JOEL EMBIID",
+        "QUESTION": "Who was the first African to win the NBA's Most Valuable Player award?",
+        "OPTION_A": "HAKEEM OLAJUWON",
+        "OPTION_C": "GIANNIS ANTETOKOUNMPO ",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "265": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "LUOL DENG",
+        "NUMBER": "265",
+        "OPTION_B": "LUOL DENG",
+        "QUESTION": "He played for the following NBA teams: Bulls, Cavaliers, Heat,  Lakers & Timberwolves before retiring in 2019?",
+        "OPTION_A": "MICHAEL OLOWOKANDI",
+        "OPTION_C": "LUC MBAH A MOUTE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "266": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "TORONTO RAPTORS",
+        "NUMBER": "266",
+        "OPTION_B": "TORONTO RAPTORS",
+        "QUESTION": "Pascal Siakam and Serge Ibaka won an NBA ring together in 2019 while playing for which team?",
+        "OPTION_A": "MILWAUKEE BUCKS",
+        "OPTION_C": "SAN ANTONIO SPURS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "267": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "CARLOS MORAIS",
+        "NUMBER": "267",
+        "OPTION_B": "OLÍMPIO CIPRIANO",
+        "QUESTION": "What Angolan player, currently at Petro de Luanda had a brief stint in the Toronto Raptors ini 2013?",
+        "OPTION_A": "EDUARDO MINGAS",
+        "OPTION_C": "CARLOS MORAIS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "268": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "PETRO DE LUANDA (ANGOLA)",
+        "NUMBER": "268",
+        "OPTION_B": " AL AHLY LY (LIBIA)",
+        "QUESTION": "Who won the 2024 edition of the Basketball Africa League?",
+        "OPTION_A": "PETRO DE LUANDA (ANGOLA)",
+        "OPTION_C": "MALABO KINGS (EQ. GUINEA)",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "269": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "GEORGE FOREMAN",
+        "NUMBER": "269",
+        "OPTION_B": "JOE FRAZIER",
+        "QUESTION": "Who did Mohammed Ali defeat in Zaire on October 30, 1974, in the famous Rumble in the Jungle fight?",
+        "OPTION_A": "GEORGE FOREMAN",
+        "OPTION_C": "SONNY LISTON",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "27": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "BARTHÉLÉMY TOGUO",
+        "NUMBER": "27",
+        "OPTION_B": "PLACIDO GUIMARAES",
+        "QUESTION": "Which Cameroonian artist is known for creating climate-conscious artworks using recycled materials?",
+        "OPTION_A": "BARTHÉLÉMY TOGUO",
+        "OPTION_C": "CHERI SAMBA",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "270": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "BABY JAKE MATLALA ",
+        "NUMBER": "270",
+        "OPTION_B": "VUYANI BUNGU",
+        "QUESTION": "Which South African boxer was the first African to win three world titles in different weight classes?",
+        "OPTION_A": "DINGAAN BONGANI THOBELA",
+        "OPTION_C": "BABY JAKE MATLALA ",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "271": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "YANNICK NOAH ( FRENCH OPEN) ",
+        "NUMBER": "271",
+        "OPTION_B": "JO-WILFRED TSONGA (AUSTRALIAN OPEN)",
+        "QUESTION": "Who was the first, and also the last, (in other words, the only) black African player to have won a tennis Grand Slam? ",
+        "OPTION_A": "YANNICK NOAH ( FRENCH OPEN) ",
+        "OPTION_C": "GAEL MONFILS (WIMBLENDON) ",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "272": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "TENNIS",
+        "NUMBER": "272",
+        "OPTION_B": "TENNIS",
+        "QUESTION": "Born to a Congolese father and French mother, Jo-Wilfried Tsonga is one of the greatest to ever play which game? ",
+        "OPTION_A": "RUGBY",
+        "OPTION_C": "BASKETBALL",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "273": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "GEORGE WEAH",
+        "NUMBER": "273",
+        "OPTION_B": "GEORGE WEAH",
+        "QUESTION": "Who is still , since 1995, the only African player to have ever win the Ballon d'Or?",
+        "OPTION_A": "JAY JAY OKOCHA",
+        "OPTION_C": "SAMUEL ETO'O",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "274": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "FRANCIS NGANNOU",
+        "NUMBER": "274",
+        "OPTION_B": "KAMARU USMAN",
+        "QUESTION": "Which Cameroonian-born fighter, known for his incredible knockout power, became the first African to win the UFC Heavyweight Championship in 2021?",
+        "OPTION_A": "FRANCIS NGANNOU",
+        "OPTION_C": "DRICUS DU PLESSIS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "275": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "MIXED MARTIAL ARTS",
+        "NUMBER": "275",
+        "OPTION_B": "SOCCER",
+        "QUESTION": "Israel Mobolaji Temitayo Odunayo Oluwafemi Owolabi Adesanya -hence Israel Adesanya-practices what sport at top level?",
+        "OPTION_A": "CHESS",
+        "OPTION_C": "MIXED MARTIAL ARTS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "276": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "ABEBE BIKILA",
+        "NUMBER": "276",
+        "OPTION_B": "HAILE GEBRSELASSIE",
+        "QUESTION": "Which Ethiopian runner became the first Black African to win an Olympic gold medal in 1960, famously running barefoot?",
+        "OPTION_A": "ABEBE BIKILA",
+        "OPTION_C": "MAMO WOLDE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "277": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "800 METERS",
+        "NUMBER": "277",
+        "OPTION_B": "400 METERS",
+        "QUESTION": "South Africa's Caster Semenya, a two-time Olympic champion, is best known for competing in which athletics event?",
+        "OPTION_A": "100 METERS",
+        "OPTION_C": "800 METERS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "278": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "ALGERIA",
+        "NUMBER": "278",
+        "OPTION_B": "SOUTH AFRICA",
+        "QUESTION": "Which country is the most successful African nation in Olympic boxing, producing multiple medalists over the years?",
+        "OPTION_A": "NIGERIA",
+        "OPTION_C": "ALGERIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "279": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "BEIJING 2008",
+        "NUMBER": "279",
+        "OPTION_B": "ATLANTA 96",
+        "QUESTION": "In which Olympics did Kenyan Tirunesh Dibaba became first African woman to win both the  5,000m and 10,000m races? ",
+        "OPTION_A": "BEIJING 2008",
+        "OPTION_C": "LONDON 2012",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "28": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "PHOTOGRAPHY",
+        "NUMBER": "28",
+        "OPTION_B": "PHOTOGRAPHY",
+        "QUESTION": "What artistic discipline did Malick Sidibé practice with great skill in the streets of Bamako? ",
+        "OPTION_A": "DANCE",
+        "OPTION_C": "BODY PAINTING",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "280": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "SIDNEY 2000",
+        "NUMBER": "280",
+        "OPTION_B": "SIDNEY 2000",
+        "QUESTION": "In which olympics did Eric Moussambani famously represented Equatorial Guinea in the 100 m freestyle swimming?",
+        "OPTION_A": "ATLANTA 96",
+        "OPTION_C": "ATHENS 2004",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "281": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "OUSSAMA MELLOULI",
+        "NUMBER": "281",
+        "OPTION_B": "OMAR RABI",
+        "QUESTION": "What is the name of the Tunisian swimmer who won a gold medal in the 1500m freestyle at the 2008 Beijing Olympics?",
+        "OPTION_A": "DAVIDE MECCA",
+        "OPTION_C": "OUSSAMA MELLOULI",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "282": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "YAMINE LAMAL",
+        "NUMBER": "282",
+        "OPTION_B": "JULES KUNDE",
+        "QUESTION": "What young player with Moroccan and Equatorial Guinean parents is expected to dominate Spanish football in the coming years?",
+        "OPTION_A": "ANSU FATI",
+        "OPTION_C": "YAMINE LAMAL",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "283": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "EQUATORIAL GUINEA'S EMILIO NSUE",
+        "NUMBER": "283",
+        "OPTION_B": "ANGOLA'S GELSON DALA",
+        "QUESTION": "Who won the 2024 Afcon Puma Golden Boot Award?",
+        "OPTION_A": "EGYPT'S MOSTAFA MOHAMMED",
+        "OPTION_C": "EQUATORIAL GUINEA'S EMILIO NSUE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "284": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "ROGER MILLA",
+        "NUMBER": "284",
+        "OPTION_B": "PATRICK MBOMA",
+        "QUESTION": "Who was the first African player to score a hat-trick in a FIFA World Cup match?",
+        "OPTION_A": "ROGER MILLA",
+        "OPTION_C": "RASHIDI YEKINI",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "285": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "BOTSWANA",
+        "NUMBER": "285",
+        "OPTION_B": "GABON",
+        "QUESTION": "Which country's national soccer team is knows as The Zebras?",
+        "OPTION_A": "ZIMBABWE",
+        "OPTION_C": "BOTSWANA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "286": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "RED",
+        "NUMBER": "286",
+        "OPTION_B": "BLUE",
+        "QUESTION": "Known as the Nzalang -thunder-, what color do the Equatorial Guinea National teams normally wear?",
+        "OPTION_A": "WHITE",
+        "OPTION_C": "RED",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "287": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "TUNISIA",
+        "NUMBER": "287",
+        "OPTION_B": "LIBYA",
+        "QUESTION": "Where would you find the Carthage Eagles? ",
+        "OPTION_A": "EGYPT",
+        "OPTION_C": "TUNISIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "288": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "ZAMBIA",
+        "NUMBER": "288",
+        "OPTION_B": "MALAWI",
+        "QUESTION": "In 2007 Amon Simutowe became the first  chess International Grand Master from sub-Saharan Africa. Where exactly is he from? ",
+        "OPTION_A": "UGANDA",
+        "OPTION_C": "ZAMBIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "289": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "MANUTE BOL (SUDAN/SOUTH SUDAN)",
+        "NUMBER": "289",
+        "OPTION_B": "TACKO FALL (SENEGAL)",
+        "QUESTION": "What African player is the tallest to ever play in the National Basketball Association?",
+        "OPTION_A": "MANUTE BOL (SUDAN/SOUTH SUDAN)",
+        "OPTION_C": "WALTER TAVARES (CABO VERDE)",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "29": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "CHEFCHAOUEN",
+        "NUMBER": "29",
+        "OPTION_B": "CHEFCHAOUEN",
+        "QUESTION": "Which Moroccan city is famous for its blue-washed buildings and winding alleys?",
+        "OPTION_A": "AGADIR",
+        "OPTION_C": "FEZ",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "290": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "IDI AMIN DADA",
+        "NUMBER": "290",
+        "OPTION_B": "IDI AMIN DADA",
+        "QUESTION": "Apparently, before becoming the President, he held the heavyweight boxing championship of his country for nine years",
+        "OPTION_A": "MOHAMMED SIAD BARRE",
+        "OPTION_C": "ROBERT GABRIEL MUGABE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "291": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "GOLF",
+        "NUMBER": "291",
+        "OPTION_B": "CRICKET",
+        "QUESTION": "In which sport discipline did the south africans Gary Oldman and Ernie Else achieved international recognition?",
+        "OPTION_A": "FORMULA ONE",
+        "OPTION_C": "GOLF",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "292": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "OSCAR PISTORIUS",
+        "NUMBER": "292",
+        "OPTION_B": "OSCAR ENGA",
+        "QUESTION": "What South African athlete (and convicted murderer) was known as The Blade Runner for obvious reasons?",
+        "OPTION_A": "OSCAR BIONG",
+        "OPTION_C": "OSCAR PISTORIUS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "293": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "SOUTH AFRICA",
+        "NUMBER": "293",
+        "OPTION_B": "ETHIOPIA",
+        "QUESTION": "With approx. 89 kilometers, the Comrades Marathon is the world’s oldest and largest ultramarathon. Where does it take place?",
+        "OPTION_A": "KENIA",
+        "OPTION_C": "SOUTH AFRICA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "294": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "UGO",
+        "NUMBER": "294",
+        "OPTION_B": "UGO",
+        "QUESTION": "In America, they nicknamed him \"the Greek Freek\", but by which other Nigerian birth name Giannis Antetokounmpo goes?",
+        "OPTION_A": "OBI",
+        "OPTION_C": "AMBRO",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "295": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "OMAM-BIYIK",
+        "NUMBER": "295",
+        "OPTION_B": "FINIDI GEORGE",
+        "QUESTION": "Who famously brought Maradona to tears with a stunning  header at the opening match of the 1990 World Cup?",
+        "OPTION_A": "OMAM-BIYIK",
+        "OPTION_C": "ROGER MILLA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "296": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "FREDDY ADU ",
+        "NUMBER": "296",
+        "OPTION_B": "EDSON BUDDLE",
+        "QUESTION": "What Ghanaian born  player broke a record by signing his first professional contract at age 14 with DC United in 2004?",
+        "OPTION_A": "FREDDY ADU ",
+        "OPTION_C": "JOSE NORBERTO ESONO",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "297": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "MALLORCA",
+        "NUMBER": "297",
+        "OPTION_B": "LEGANES",
+        "QUESTION": "With which team did Samuel Eto'o win his first Copa del Rey title in Spain in 2003?",
+        "OPTION_A": "FC BARCELONA ",
+        "OPTION_C": "MALLORCA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "298": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "METZ (FRANCE)",
+        "NUMBER": "298",
+        "OPTION_B": "SOUTHAMPTON (ENGLAND)",
+        "QUESTION": "What was Sadio Mané's first European club?",
+        "OPTION_A": "RED BULL SALZBURG (AUSTRIA)",
+        "OPTION_C": "METZ (FRANCE)",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "299": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "AHMED HASSAN",
+        "NUMBER": "299",
+        "OPTION_B": "MIDO",
+        "QUESTION": "Which Egyptian midfielder has won the most African Cup of Nations titles in history?",
+        "OPTION_A": "AHMED HASSAN",
+        "OPTION_C": "MOHAMED ZIDAN",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "3": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "HALF A YELLOW SUN",
+        "NUMBER": "3",
+        "OPTION_B": "HALF A YELLOW SUN",
+        "QUESTION": "What 2006 classic by Chimamanda Ngozi Adichie is set against the backdrop of the Biafran War?",
+        "OPTION_A": "PURPLE HIBISCUS",
+        "OPTION_C": "THE THING AROUND YOUR NECK",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "30": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "KUSH",
+        "NUMBER": "30",
+        "OPTION_B": "NOBATIA",
+        "QUESTION": "Which ancient Nubian kingdom, located in present-day Sudan, is known for its pyramids at Meroë?",
+        "OPTION_A": "KUSH",
+        "OPTION_C": "ALWA",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "300": {
+        "CATEGORY": "SPORTS",
+        "ANSWER": "EGYPT",
+        "NUMBER": "300",
+        "OPTION_B": "NIGERIA",
+        "QUESTION": "What national team has won the most AFCON trophies?",
+        "OPTION_A": "CAMEROON",
+        "OPTION_C": "EGYPT",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Sports.png"
+    },
+    "31": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "TIMBUKTU, MALI",
+        "NUMBER": "31",
+        "OPTION_B": "THIES, SENEGAL",
+        "QUESTION": "What's the location of the famous Djinguereber Mosque?",
+        "OPTION_A": "TIMBUKTU, MALI",
+        "OPTION_C": "NOUAKCHOTT, MAURITANIA",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "32": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "THE OSUN-OSOGBO FESTIVAL",
+        "NUMBER": "32",
+        "OPTION_B": "THE GNAOUA WORLD MUSIC FESTIVAL",
+        "QUESTION": "What large festival in Nigeria celebrates the Ooni of Ife and includes music, dance, and vibrant costumes?",
+        "OPTION_A": "THE OSUN-OSOGBO FESTIVAL",
+        "OPTION_C": "THE KNYSNA OYSTER FESTIVAL",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "33": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "RAMSES II",
+        "NUMBER": "33",
+        "OPTION_B": "RAMSES I",
+        "QUESTION": "To which pharaoh is the Abu Simbel temple dedicated to? ",
+        "OPTION_A": "RAMSES II",
+        "OPTION_C": "AKHENATEN",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "34": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "THE FAMISHED ROAD ",
+        "NUMBER": "34",
+        "OPTION_B": "WHERE THE ROAD RUNS OUT",
+        "QUESTION": "What 1991 book by Ben Okri follows the life of Azaro, a spirit child, through a bustling Nigerian city?",
+        "OPTION_A": "ENDLESS ROADS",
+        "OPTION_C": "THE FAMISHED ROAD ",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "35": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "TUTU",
+        "NUMBER": "35",
+        "OPTION_B": "PRINCESS OF IFE",
+        "QUESTION": "What painting by Ben Enwonwu (Nigeria) is known as The African Mona Lisa?",
+        "OPTION_A": "TUTU",
+        "OPTION_C": "AFRICAN MADONNA",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "36": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "ESTHER MAHLANGU",
+        "NUMBER": "36",
+        "OPTION_B": "WANGECHI MUTU",
+        "QUESTION": "Who painted \"The Face of Apartheid\" from a traditional Ndebele perspective?",
+        "OPTION_A": "ESTHER MAHLANGU",
+        "OPTION_C": "WILLIE BESTER",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "37": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "THE FREEDOM STATUE",
+        "NUMBER": "37",
+        "OPTION_B": "THE VICTORY MEMORIAL",
+        "QUESTION": "Situated in Lusaka, this statue commemorates Zambia’s independence from British colonial rule?",
+        "OPTION_A": "THE FREEDOM STATUE",
+        "OPTION_C": "THE INDEPENDENCE STATUE",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "38": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "MALI",
+        "NUMBER": "38",
+        "OPTION_B": "TOGO",
+        "QUESTION": "Where would you find the Askia Monument, erected at the height of the Shongai Empire?",
+        "OPTION_A": "MALI",
+        "OPTION_C": "BURKINA FASO",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "39": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "MAURITIUS",
+        "NUMBER": "39",
+        "OPTION_B": "MAURITIUS",
+        "QUESTION": "L'Aventure du Sucre is an interactive museum tracing the history of sugar production in...",
+        "OPTION_A": "SEYCHELLES",
+        "OPTION_C": "TUNISIA",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "4": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "CHILDREN OF GEBELAWI",
+        "NUMBER": "4",
+        "OPTION_B": "THE YACOUBIAN BUILDING",
+        "QUESTION": "What 1959 book by Naguib Mahfouz was banned in his native Egypt because of its religious views?",
+        "OPTION_A": "CHILDREN OF GEBELAWI",
+        "OPTION_C": "ON BEING ABBAS EL ABD",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "40": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "MIKISI",
+        "NUMBER": "40",
+        "OPTION_B": "VUDU DOLL",
+        "QUESTION": "What's the name of the wooden or metal figures used in Luba (Kilengi) art representing ancestors, spirits, or deities?",
+        "OPTION_A": "MIKISI",
+        "OPTION_C": "FETTISH",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "41": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "PAINTING",
+        "NUMBER": "41",
+        "OPTION_B": "SCULPTURE",
+        "QUESTION": "What type of artwork is \"Mama, Papa is Wounded\" by congolese artist Bodys Isek Kingelez?",
+        "OPTION_A": "PAINTING",
+        "OPTION_C": "NOVEL",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "42": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "DUMILE FENI",
+        "NUMBER": "42",
+        "OPTION_B": "SEKOTO GERARD",
+        "QUESTION": "Which SA artist, known as the Goya of the Townships, recorded The Death of Chief Luthuli?",
+        "OPTION_A": "IRMA STERN",
+        "OPTION_C": "DUMILE FENI",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "43": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "WANGECHI MUTU",
+        "NUMBER": "43",
+        "OPTION_B": "WANGECHI MUTU",
+        "QUESTION": "\"The NewOnes, Will Free Us\", \"A Fantastic Journey\" & \"The End of Eating Everything\" are notable works by...",
+        "OPTION_A": "NJIDEKA AKUNYILI CROSBY ",
+        "OPTION_C": "EL ANATSUI",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "44": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "KEVIN CARTER",
+        "NUMBER": "44",
+        "OPTION_B": "JOAO SILVA",
+        "QUESTION": "\"The Vulture and the Little Girl\" is one of the most iconic photos in the history of photojournalism.  Who took the shot? ",
+        "OPTION_A": "KEVIN CARTER",
+        "OPTION_C": "KEN OOSTERBROEK",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "45": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "CHILD SOLDIER",
+        "NUMBER": "45",
+        "OPTION_B": "CHILD SOLDIER",
+        "QUESTION": "In \"A Long Way Gone\" Ishmael Beah tells the tale of his time as a...",
+        "OPTION_A": "FAKE PROPHET",
+        "OPTION_C": "PIRATE",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "46": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "FATHI HASSAN",
+        "NUMBER": "46",
+        "OPTION_B": "OKWUI ENWEZOR ",
+        "QUESTION": "What Egyptian-born artist is considered a major early representative of contemporary black African art?",
+        "OPTION_A": "FATHI HASSAN",
+        "OPTION_C": "JOSEPH BERTIERS",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "47": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "SIERRA LEONE CIVIL WAR",
+        "NUMBER": "47",
+        "OPTION_B": "LIBERIAN CIVIL WAR",
+        "QUESTION": "The Bite of the Mango, by Mariatu Kamara offers a personal insight into what brutal war?",
+        "OPTION_A": "SIERRA LEONE CIVIL WAR",
+        "OPTION_C": "IVORIEN CIVIL WAR",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "48": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "SO LONG A LETTER",
+        "NUMBER": "48",
+        "OPTION_B": "SO LONG A LETTER",
+        "QUESTION": "What 1979 epistolary novel by Mariama Bâ explores the condition of African women in West African society?",
+        "OPTION_A": "THE JOYS OF MOTHERHOOD",
+        "OPTION_C": "EFURU",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "49": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "NERVOUS",
+        "NUMBER": "49",
+        "OPTION_B": "TIMID",
+        "QUESTION": "How did Tsitsi Dangarembga describe Tambu's conditions in the title of her 1988 book?",
+        "OPTION_A": "NERVOUS",
+        "OPTION_C": "AGITATED",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "5": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "CRY, THE BELOVED COUNTRY",
+        "NUMBER": "5",
+        "OPTION_B": "AH, BUT YOUR LAND IS BEAUTIFUL",
+        "QUESTION": "Stephen Kumalo, Absalom Kumalo and John Kumalo are all characters in Alan Paton's most famous book",
+        "OPTION_A": "TALES OF A TROUBLED LAND",
+        "OPTION_C": "CRY, THE BELOVED COUNTRY",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "50": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "A GRAIN OF WHEAT",
+        "NUMBER": "50",
+        "OPTION_B": "A BAG OF WHEAT",
+        "QUESTION": "How much wheat did Ngũgĩ wa Thiong'o prescribed in his 1967 novel about Kenya's fight for independence?",
+        "OPTION_A": "A TON OF WHEAT",
+        "OPTION_C": "A GRAIN OF WHEAT",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "51": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "QUARTIER LATIN",
+        "NUMBER": "51",
+        "OPTION_B": "WENGE MUSICA",
+        "QUESTION": "What influential soukous band was formed in Kinsasha by Koffi Olomide in 1986? ",
+        "OPTION_A": "QUARTIER LATIN",
+        "OPTION_C": "ZAIKO LANGA LANGA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "52": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "SAXOPHONE",
+        "NUMBER": "52",
+        "OPTION_B": "VIOLIN",
+        "QUESTION": "Manu Dibango (1933–2020) was an internationally recognized musician from Cameroon, very skilled in what instrument? ",
+        "OPTION_A": "GUITAR",
+        "OPTION_C": "SAXOPHONE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "53": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "BURNA BOY",
+        "NUMBER": "53",
+        "OPTION_B": "WIZKID",
+        "QUESTION": "Which Nigerian artist won a Grammy for the 2020 album \"Twice as Tall\" ?",
+        "OPTION_A": "DAVIDO",
+        "OPTION_C": "BURNA BOY",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "54": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "WIZKID",
+        "NUMBER": "54",
+        "OPTION_B": "WIZKID",
+        "QUESTION": "Which superstar, real name Ayodeji Ibrahim Balogun, is proudly \"made in Lagos\"?",
+        "OPTION_A": "TEKNO",
+        "OPTION_C": "OLAMIDE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "55": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "I WAKE UP TO FIGHT FOR MY EARNINGS",
+        "NUMBER": "55",
+        "OPTION_B": "I TRY TO BE FINE BUT I CAN'T BE",
+        "QUESTION": "In Free Mind, Tems starts by singing the verse: \"I said, five in the morning\"...",
+        "OPTION_A": "I TRY TO GET BY BUT I'M BURNING",
+        "OPTION_C": "I WAKE UP TO FIGHT FOR MY EARNINGS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "56": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "STONEBWOY",
+        "NUMBER": "56",
+        "OPTION_B": "KIDI",
+        "QUESTION": "Which Ghanaian artist is known for blending Afrobeats and reggae, with hits like \"Baafira\" and \"Tomorrow\"",
+        "OPTION_A": "STONEBWOY",
+        "OPTION_C": "SHATTA WALE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "57": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "MASTER KG",
+        "NUMBER": "57",
+        "OPTION_B": "UNCLE WAFFLES",
+        "QUESTION": "Who is the South African DJ behind the international Covid lockdown song anthem Jerusalema? ",
+        "OPTION_A": "MASTER KG",
+        "OPTION_C": "BLACK COFEE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "58": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "DAVIDO",
+        "NUMBER": "58",
+        "OPTION_B": "OMAH LAY",
+        "QUESTION": "Who famously sang \"...If tell you say I love you oh....\" ",
+        "OPTION_A": "KIZZ DANIEL",
+        "OPTION_C": "DAVIDO",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "59": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "FELA KUTI",
+        "NUMBER": "59",
+        "OPTION_B": "FEMI KUTI",
+        "QUESTION": "Which legendary signer and activist is widely considered to be \"the father of Afrobeats\"?",
+        "OPTION_A": "FELA KUTI",
+        "OPTION_C": "2FACE IDIBIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "6": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "WALTER RODNEY",
+        "NUMBER": "6",
+        "OPTION_B": "WALTER RODNEY",
+        "QUESTION": "\"How Europe Underdeveloped Africa (1972)\" is a reference book in third world academia written by which Guyanese author?",
+        "OPTION_A": "FRANTZ FANON",
+        "OPTION_C": "EUSI KWAYANA",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "60": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "YEMI ALADE",
+        "NUMBER": "60",
+        "OPTION_B": "YEMI ALADE",
+        "QUESTION": "Who famously exposed Johnny's womanizing ways in a 2014 music video of her 2013 King of Queens album?",
+        "OPTION_A": "TIWA SAVAGE",
+        "OPTION_C": "AYRA STARR",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "61": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "SAUTI SOL",
+        "NUMBER": "61",
+        "OPTION_B": "MI CASA",
+        "QUESTION": "What Kenyan Afropop band is made of Bien-Aimé Baraza, Willis Chimano and Savara Mudigi?",
+        "OPTION_A": "LADYSMITH BLACK MAMBAZO",
+        "OPTION_C": "SAUTI SOL",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "62": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "FALLY IPUPA ",
+        "NUMBER": "62",
+        "OPTION_B": "FALLY IPUPA ",
+        "QUESTION": "Which popular superstar has released albums such as Arsenal de Belles Melodies, Tokoos and Formule 7?",
+        "OPTION_A": "DADJU",
+        "OPTION_C": "DJ ARAFAT",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "63": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "MIRIAM MAKEBA",
+        "NUMBER": "63",
+        "OPTION_B": "YVONNE CHAKA CHAKA",
+        "QUESTION": "Known as Mama Africa, she won a Grammy award way before any of today's divas (1966)for Best Folk Recording",
+        "OPTION_A": "MIRIAM MAKEBA",
+        "OPTION_C": "ANGÉLIQUE KIDJO",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "64": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "AICHA",
+        "NUMBER": "64",
+        "OPTION_B": "AICHA",
+        "QUESTION": "This song, about a virtuous woman, was released in 1996 and made Algerian singer Khaled an international icon",
+        "OPTION_A": "DIDI",
+        "OPTION_C": "AIDA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "65": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "SEVEN SECONDS",
+        "NUMBER": "65",
+        "OPTION_B": "SEVEN SECONDS",
+        "QUESTION": "How long were Youssou N'dour and Neneh Cherry willing to wait in their magnificent 1994 collabo? ",
+        "OPTION_A": "TWO MINUTES ",
+        "OPTION_C": "SEVEN DAYS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "66": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "LIBERIA",
+        "NUMBER": "66",
+        "OPTION_B": "SUDAN",
+        "QUESTION": "In one of his most iconic songs, an African girl came and changed Michael Jackson's world. Where was she from?",
+        "OPTION_A": "ETHIOPIA",
+        "OPTION_C": "LIBERIA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "67": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "DIAMOND PLATNUMZ",
+        "NUMBER": "67",
+        "OPTION_B": "DIAMOND PLATNUMZ",
+        "QUESTION": "Which Tanzanian artist, big in Bongo Flava, gained popularity with songs like \"Jeje\" and \"African Beauty\"?",
+        "OPTION_A": "KAE CHAPS",
+        "OPTION_C": "BOBBY WINE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "68": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "SOLOMON LINDA",
+        "NUMBER": "68",
+        "OPTION_B": "HUGH MASEKELA",
+        "QUESTION": "It seems like he's finally been credited for \"Mbube\", the original song behind the  Lion King anthem",
+        "OPTION_A": "SOLOMON LINDA",
+        "OPTION_C": "MBONGENI NGEMA ",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "69": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "REGGAE",
+        "NUMBER": "69",
+        "OPTION_B": "REGGAE",
+        "QUESTION": "Alpha Blondy (CiV) and Lucky Dube (SA) are the continent's most prominent exponents of which music genre?",
+        "OPTION_A": "KWAITO",
+        "OPTION_C": "JAZZ",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "7": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "CHINUA ACHEBE",
+        "NUMBER": "7",
+        "OPTION_B": "CHINUA ACHEBE",
+        "QUESTION": "Who was \"no longer at ease\" after \"things fell apart\"?",
+        "OPTION_A": "WALE SOYINKA",
+        "OPTION_C": "CHEIKH ANTA DIOP",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "70": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "THE INVASION",
+        "NUMBER": "70",
+        "OPTION_B": "DANGER",
+        "QUESTION": "Forever is one of P.Square's biggest hits. It was released in 2011 as part of their fifth album called...? ",
+        "OPTION_A": "THE INVASION",
+        "OPTION_C": "DOUBLE TROUBLE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "71": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "GENEVIEVE NNAJI",
+        "NUMBER": "71",
+        "OPTION_B": "REGINA DANIELS",
+        "QUESTION": "What veteran Nollywood actress debuted as a director with the 2018 movie Lionheart?",
+        "OPTION_A": "GENEVIEVE NNAJI",
+        "OPTION_C": "NGOZI EZEONU",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "72": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "PEARL THUSI ",
+        "NUMBER": "72",
+        "OPTION_B": "MINNIE DLAMINI",
+        "QUESTION": "Which beautiful South African actress plays the role of Queen Sono?",
+        "OPTION_A": "PEARL THUSI ",
+        "OPTION_C": "THANDO THABETHE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "73": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "DJ ARAFAT",
+        "NUMBER": "73",
+        "OPTION_B": "SERGE BEYNAUD",
+        "QUESTION": "Ange Didier Houon was one of the most influential coupé decalé artists of his generation. What was his stage name?",
+        "OPTION_A": "MEIWAY",
+        "OPTION_C": "DJ ARAFAT",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "74": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "ESI",
+        "NUMBER": "74",
+        "OPTION_B": "ESI",
+        "QUESTION": "What's the name of the main character, a young girl trying to save her father, in \"The Burial of Kojo\" (2018)?",
+        "OPTION_A": "ADE",
+        "OPTION_C": "AINO",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "75": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "A GROUP OF PRISONERS",
+        "NUMBER": "75",
+        "OPTION_B": "A GROUP OF PRISONERS",
+        "QUESTION": "In the Kenyan thriller 40 Sticks (2020), who find themselves being hunted by a mysterious killer?",
+        "OPTION_A": "A GROUP OF STUDENTS",
+        "OPTION_C": "A GROUP OF POLITICIANS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "76": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "CAMEROON",
+        "NUMBER": "76",
+        "OPTION_B": "RWANDA",
+        "QUESTION": "On which of these countries is much of the 2020 award winning Spanish production Adú set?",
+        "OPTION_A": "KENYA",
+        "OPTION_C": "CAMEROON",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "77": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "THE GIRL IN THE YELLOW JUMPER",
+        "NUMBER": "77",
+        "OPTION_B": "QUEEN OF KATWE",
+        "QUESTION": "What's the name of the first Ugandan movie to debut on Netflix?",
+        "OPTION_A": "THE GIRL IN THE YELLOW JUMPER",
+        "OPTION_C": "VIRUNGA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "78": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "MATI DIOP ",
+        "NUMBER": "78",
+        "OPTION_B": "DJIBRIL DIOP MAMBÉTY",
+        "QUESTION": "Who directed Atlantics, a 2019 supernatural romantic drama about migration to Europe from Senegal? ",
+        "OPTION_A": "MATI DIOP ",
+        "OPTION_C": "ALAIN GOMIS ",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "79": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "OUSMANE SEMBÈNE",
+        "NUMBER": "79",
+        "OPTION_B": "ABABACAR SAMB MAKHARAM",
+        "QUESTION": "Which senegalese filmmaker, deceased in 2007, is considered to be the father of African cinema? ",
+        "OPTION_A": "MOUSSA SENE ABSA",
+        "OPTION_C": "OUSMANE SEMBÈNE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "8": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "CHEIKH ANTA DIOP",
+        "NUMBER": "8",
+        "OPTION_B": "THEOPILE OBENGA",
+        "QUESTION": "Who famously traced back the African origins of civilization in  a 1974 treaty?",
+        "OPTION_A": "CHEIKH ANTA DIOP",
+        "OPTION_C": "LÉOPOLD SÉDAR SENGHOR",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "80": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "\"BLACK GIRL\" (LA NOIRE DE...)",
+        "NUMBER": "80",
+        "OPTION_B": "XALA",
+        "QUESTION": "What 1966 classic by Ousmane Sembène is often considered the first Sub-Saharan African film by an African filmmaker?",
+        "OPTION_A": "BOROM SARRET",
+        "OPTION_C": "\"BLACK GIRL\" (LA NOIRE DE...)",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "81": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "DANIEL KALUUYA",
+        "NUMBER": "81",
+        "OPTION_B": "IDRIS ELBA",
+        "QUESTION": "What actor of Ugandan ascendence was in Get Out, Black Panther and Judas & The Black Messiah?",
+        "OPTION_A": "DANIEL KALUUYA",
+        "OPTION_C": "CHADWICK BOSEMAN",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "82": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "HENRY CELE",
+        "NUMBER": "82",
+        "OPTION_B": "HENRY CELE",
+        "QUESTION": "What former goalkeeper played the role of King Shaza Zulu in the famous play and TV series?",
+        "OPTION_A": "JOE MAFELA",
+        "OPTION_C": "JOHN KANI",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "83": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "12 YEARS A SLAVE",
+        "NUMBER": "83",
+        "OPTION_B": "AMISTAD",
+        "QUESTION": "In which movie, based on a true story, Chiwetel Ejiofor, plays the role of the slave Solomon Northup?",
+        "OPTION_A": "12 YEARS A SLAVE",
+        "OPTION_C": "DJANGO UNCHAINED",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "84": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "LES GARAGISTES",
+        "NUMBER": "84",
+        "OPTION_B": "LA JET SET",
+        "QUESTION": "Which group released the critically acclaimed album Tapis Rouge in 2004, with hits such as Wakalome and Kouyou?",
+        "OPTION_A": "MAGIC SYSTEM",
+        "OPTION_C": "LES GARAGISTES",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "85": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "SOPHIE OKONEDO",
+        "NUMBER": "85",
+        "OPTION_B": "SOPHIE OKONEDO",
+        "QUESTION": "This British-Nigerian actress received an Academy Award nomination for her role in Hotel Rwanda",
+        "OPTION_A": "GUGU MBATHA-RAW",
+        "OPTION_C": "LIYA KEBEDE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "86": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "TREVOR NOAH",
+        "NUMBER": "86",
+        "OPTION_B": "LOYISO GOLA",
+        "QUESTION": "What comedian and TV personality told his story in a 2016 autobiography called Born a Crime?",
+        "OPTION_A": "TREVOR NOAH",
+        "OPTION_C": "BASKETMOUTH",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "87": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "MAMA OJO",
+        "NUMBER": "87",
+        "OPTION_B": "MAMA OJO",
+        "QUESTION": "Samuel Oluwafemi Asubiojo, popularly known as SamSpedy is a Nigerian comedian known for his role as...",
+        "OPTION_A": "EMMANUELA",
+        "OPTION_C": "MR. IGBO",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "88": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "BOVI UGBOMA",
+        "NUMBER": "88",
+        "OPTION_B": "AYO MAKUN",
+        "QUESTION": "What Nigerian actor and stand up comedian has participated in Banana Republic and Visa on Arrival?",
+        "OPTION_A": "BOVI UGBOMA",
+        "OPTION_C": "IGOSAVE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "89": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "GRAND M",
+        "NUMBER": "89",
+        "OPTION_B": "OSHITA IHEME",
+        "QUESTION": "What Malian comedian, combined his dwarfism, unique laugh and facial expressions to become a  popular social media meme and personality? ",
+        "OPTION_A": "GRAND M",
+        "OPTION_C": "JACK (SEAN BRIDON)",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "9": {
+        "CATEGORY": "ARTS & LITERATURE",
+        "ANSWER": "TERRA SONÂMBULA",
+        "NUMBER": "9",
+        "OPTION_B": "RECLUSOS",
+        "QUESTION": "Which Mozambican novel by Mia Couto uses magical realism to explore themes of war, identity, and language?",
+        "OPTION_A": "CHIQUINHO",
+        "OPTION_C": "TERRA SONÂMBULA",
+        "IMAGE": "https://firebasestorage.googleapis.com/v0/b/afrikanaone.firebasestorage.app/o/ArtsLiterature.png?alt=media&token=dfe8c404-2dca-4adc-9730-d8d4f6f48b2b"
+    },
+    "90": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "SECURITY GUARD",
+        "NUMBER": "90",
+        "OPTION_B": "TAXI DRIVER",
+        "QUESTION": "In the kenyan sitcom of the same name, what does Papa Shirandula does for a living? ",
+        "OPTION_A": "PETTY THIEVE",
+        "OPTION_C": "SECURITY GUARD",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "91": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "MARK ANGEL",
+        "NUMBER": "91",
+        "OPTION_B": "MARK ANGEL",
+        "QUESTION": "According to many credible sources, who is the creator with the most followers on the continent?",
+        "OPTION_A": "KSI",
+        "OPTION_C": "BONANG MATHEBA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "92": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "AFRICAN TRAVEL",
+        "NUMBER": "92",
+        "OPTION_B": "AFRICAN TRAVEL",
+        "QUESTION": "What kind of a content does the Ghanaian youtuber Wode Maya promotes online? ",
+        "OPTION_A": "AFRICAN CUISINE",
+        "OPTION_C": "AFRICAN GOSSIP",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "93": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "OSUOFIA",
+        "NUMBER": "93",
+        "OPTION_B": "JENIFA",
+        "QUESTION": "Who famously experienced culture shock while traveling from Nigeria to London for the first time? ",
+        "OPTION_A": "OSUOFIA",
+        "OPTION_C": "AKI",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "94": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "THE MAN WHO SOLD HIS SKIN",
+        "NUMBER": "94",
+        "OPTION_B": "DAYS OF GLORY",
+        "QUESTION": "What Tunisian movie was nominated for an Oscar in the Best International Film category in 2021?",
+        "OPTION_A": "THE MAN WHO SOLD HIS SKIN",
+        "OPTION_C": "TIMBUKTU",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "95": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "ESPOIR 2000",
+        "NUMBER": "95",
+        "OPTION_B": "YODE & SIRO",
+        "QUESTION": "Which zouglou duo is responsible for timeless hits such as Abidjan Farot, Je t'aime and Xenophobie?",
+        "OPTION_A": "ESPOIR 2000",
+        "OPTION_C": "LES PATRONS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "96": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "KORA AWARDS",
+        "NUMBER": "96",
+        "OPTION_B": "KORA AWARDS",
+        "QUESTION": "What prestigious awards seeks to recognize outstanding achievements in African music and to promote African culture worldwide?",
+        "OPTION_A": "JONCHAM AWARDS",
+        "OPTION_C": "KUTI AWARDS",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "97": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "OLIVIER NGOMA",
+        "NUMBER": "97",
+        "OPTION_B": "PATIENCE DABANY",
+        "QUESTION": "Adia, Icole & Bane are some of the biggest hits of which veteran Gabonese singer? ",
+        "OPTION_A": "OLIVIER NGOMA",
+        "OPTION_C": "PIERRE AKENDENGUE",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "98": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "EQUATORIAL GUINEA",
+        "NUMBER": "98",
+        "OPTION_B": "CABO VERDE",
+        "QUESTION": "Martiniano Abaha Elé Ndoho, aka MAELE, was the most internationally recognized singer from...?",
+        "OPTION_A": "SAO TOME & PRINCIPE",
+        "OPTION_C": "EQUATORIAL GUINEA",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    },
+    "99": {
+        "CATEGORY": "ENTERTAINMENT",
+        "ANSWER": "FRANKO",
+        "NUMBER": "99",
+        "OPTION_B": "KOTOBASS",
+        "QUESTION": "Who released a one hit wonder called \"Coller la Petite\" in 2015 that went viral all over the Francophone world and beyond?",
+        "OPTION_A": "X MALEMA ",
+        "OPTION_C": "FRANKO",
+        "IMAGE": "gs://afrikanaone.firebasestorage.app/Entertainment.png"
+    }
+}
