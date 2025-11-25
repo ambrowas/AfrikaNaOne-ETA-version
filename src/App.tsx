@@ -6,6 +6,7 @@ import { PostGameScreen } from './screens/PostGameScreen';
 import { GoodbyeScreen } from './screens/GoodbyeScreen';
 import type { GameResult, LeaderboardEntry, ScreenId, SessionState } from './types';
 import { defaultExperienceBrand } from './config/brand';
+import { LEADERBOARD_LIMIT } from './constants/leaderboard';
 import './screens/screens.css';
 
 const baseLeaderboard: LeaderboardEntry[] = [
@@ -93,7 +94,7 @@ const updateLeaderboard = (entries: LeaderboardEntry[], newcomer: LeaderboardEnt
   const next = [...entries]
     .concat(newcomer)
     .sort((a, b) => b.score - a.score)
-    .slice(0, 5);
+    .slice(0, LEADERBOARD_LIMIT);
   return next;
 };
 

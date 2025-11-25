@@ -18,7 +18,7 @@ export const experienceBrand: ExperienceBrand = {
   copy: {
     tagline: 'Ethiopian Airlines · Afrika Na One Experience',
     welcome: 'Karibu! Discover Africa with Ethiopian Airlines before we land.',
-    goodbye: 'Asante for playing with Ethiopian Airlines. Keep the savannah spirit alive.'
+    goodbye: 'Thank you for flying Ethiopian Airlines. Keep the savannah spirit alive.'
   }
 };
 

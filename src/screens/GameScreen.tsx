@@ -22,6 +22,15 @@ interface QuizQuestion {
 
 const QUESTION_TIME_SECONDS = 20;
 
+const shuffleQuestions = (list: QuizQuestion[]) => {
+  const copy = [...list];
+  for (let i = copy.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+};
+
 const animationCache: Record<string, any> = {};
 
 const useLottieAnimation = (src: string) => {
@@ -55,12 +64,12 @@ const useLottieAnimation = (src: string) => {
 };
 
 const CATEGORY_IMAGE_MAP: Record<string, string> = {
-  'ARTS & LITERATURE': '/media/images/literature.png',
-  ENTERTAINMENT: '/media/images/entertainment.png',
-  GEOGRAPHY: '/media/images/geography.jpeg',
-  HISTORY: '/media/images/history.png',
-  MISCELLANEOUS: '/media/images/miscellaneous.png',
-  SPORTS: '/media/images/sports.png'
+  'ARTS & LITERATURE': '/media/images/literature.jpg',
+  ENTERTAINMENT: '/media/images/entertainment.jpg',
+  GEOGRAPHY: '/media/images/geography.jpg',
+  HISTORY: '/media/images/history.jpg',
+  MISCELLANEOUS: '/media/images/miscellaneous.jpg',
+  SPORTS: '/media/images/sports.jpg'
 };
 
 export const GameScreen = ({ gameId, onCompleted, onNavigate }: GameScreenProps) => {
@@ -94,6 +103,7 @@ export const GameScreen = ({ gameId, onCompleted, onNavigate }: GameScreenProps)
   const warningShownRef = useRef(false);
   const [showDangerWarning, setShowDangerWarning] = useState(false);
   const warningTimeoutRef = useRef<number | null>(null);
+  const questionPoolRef = useRef<QuizQuestion[]>([]);
 
   const stopTimer = useCallback(() => {
     if (timerRef.current) {
@@ -212,11 +222,19 @@ export const GameScreen = ({ gameId, onCompleted, onNavigate }: GameScreenProps)
     [handleTimeout, playDrumSound, stopDrumSound, stopTimer]
   );
 
+  const getNextQuestionFromPool = useCallback(() => {
+    if (!questions.length) return null;
+    if (questionPoolRef.current.length === 0) {
+      questionPoolRef.current = shuffleQuestions(questions);
+    }
+    return questionPoolRef.current.pop() ?? null;
+  }, [questions]);
+
   const advanceQuestion = useCallback(() => {
-    if (!questions.length) return;
-    const next = questions[Math.floor(Math.random() * questions.length)];
+    const next = getNextQuestionFromPool();
+    if (!next) return;
     startRound(next);
-  }, [questions, startRound]);
+  }, [getNextQuestionFromPool, startRound]);
 
   useEffect(() => {
     correctSound.current = document.getElementById('correct-sound') as HTMLAudioElement;
@@ -255,7 +273,11 @@ export const GameScreen = ({ gameId, onCompleted, onNavigate }: GameScreenProps)
         setQuestions(list);
         setIsLoadingQuestions(false);
         if (list.length) {
-          startRound(list[Math.floor(Math.random() * list.length)]);
+          questionPoolRef.current = shuffleQuestions(list);
+          const next = questionPoolRef.current.pop();
+          if (next) {
+            startRound(next);
+          }
         } else {
           setQuestionError('No quiz questions available.');
         }

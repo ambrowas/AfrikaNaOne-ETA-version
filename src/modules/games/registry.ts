@@ -3,8 +3,9 @@ import type { GameDefinition } from './types';
 export const games: GameDefinition[] = [
   {
     id: 'savannah-trivia',
-    title: 'Savannah Trivia Sprint',
-    description: 'Rapid-fire cultural questions from Casablanca to Cape Town.',
+    title: 'Savannah Trivia Flight',
+    description:
+      'Rapid-fire general knowledge questions:\nfrom Casablanca to Cape Town, from Malabo to Djibouti.',
     kind: 'trivia',
     estimatedMinutes: 5,
     difficulty: 'medium',

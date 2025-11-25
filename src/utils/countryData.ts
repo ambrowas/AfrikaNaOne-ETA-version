@@ -126,7 +126,7 @@ export const countryData: CountryInfo[] = [
   { name: 'Nauru', iso3: 'NRU', flag: '🇳🇷' },
   { name: 'Nepal', iso3: 'NPL', flag: '🇳🇵' },
   { name: 'Netherlands', iso3: 'NLD', flag: '🇳🇱' },
-  { name: 'New Zealand', iso3: 'NZL', flag: '🇳🇬' },
+  { name: 'New Zealand', iso3: 'NZL', flag: '🇳🇿' },
   { name: 'Nicaragua', iso3: 'NIC', flag: '🇳🇮' },
   { name: 'Niger', iso3: 'NER', flag: '🇳🇪' },
   { name: 'Nigeria', iso3: 'NGA', flag: '🇳🇬' },
