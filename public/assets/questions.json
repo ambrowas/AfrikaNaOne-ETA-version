@@ -541,12 +541,12 @@
     },
     "148": {
         "CATEGORY": "GEOGRAPHY",
-        "ANSWER": "MADAGASCARA",
+        "ANSWER": "MADAGASCAR",
         "NUMBER": "148",
         "OPTION_B": "SEYCHELLES",
         "QUESTION": "Where would you find the world-famous Avenue of the Baobabs?",
         "OPTION_A": "COMOROS",
-        "OPTION_C": "MADAGASCARA",
+        "OPTION_C": "MADAGASCAR",
         "IMAGE": "gs://afrikanaone.firebasestorage.app/Geography.png"
     },
     "149": {
@@ -1174,7 +1174,7 @@
         "ANSWER": "AFRICAN DEVELOPMENT BANK",
         "NUMBER": "204",
         "OPTION_B": "AFRICAN CENTER FOR DISEASE CONTROL",
-        "QUESTION": "Which progressive international institution has Dr. Akinwumi Adesina been leading since 2015?",
+        "QUESTION": "Which progressive international institution has Dr. Akinwumi Adesina led between 2015 and 2025?",
         "OPTION_A": "AFRICAN DEVELOPMENT BANK",
         "OPTION_C": "ECOWAS",
         "IMAGE": "gs://afrikanaone.firebasestorage.app/currentAffairs.png"

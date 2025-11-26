@@ -14,7 +14,7 @@ const upcomingExperiences = [
     id: 'savanah-puzzle',
     title: 'Savannah Puzzle',
     status: 'COMING SOON',
-    image: '/media/images/savanah-puzzle.jpg'
+    image: '/media/images/savanah-trivia.jpg'
   },
   {
     id: 'savanah-matching',
@@ -41,7 +41,7 @@ export const MainMenuScreen = ({ onNavigate, onSelectGame }: MainMenuScreenProps
           <div className="main-menu__layout">
             <div className="main-menu__hero">
               <button
-                className="menu-button main-menu__hero-button main-menu__hero-landscape"
+                className="menu-button main-menu__hero-button"
                 onClick={() => {
                   if (heroGame) {
                     onSelectGame(heroGame.id);
@@ -50,7 +50,7 @@ export const MainMenuScreen = ({ onNavigate, onSelectGame }: MainMenuScreenProps
                 }}
               >
                 <div className="main-menu__hero-media">
-                  <img src="/media/images/savanah-trivia.jpg" alt="Savannah Trivia hero" />
+                  <img src="/media/images/savanah-puzzle.jpg" alt="Savannah Puzzle hero" />
                 </div>
                 <div className="main-menu__hero-copy">
                   <strong>{heroGame?.title ?? 'Savannah Trivia Flight'}</strong>
@@ -65,7 +65,7 @@ export const MainMenuScreen = ({ onNavigate, onSelectGame }: MainMenuScreenProps
                   <span className="menu-button__icon main-menu__soon-icon" aria-hidden>
                     <img src={experience.image} alt={`${experience.title} thumbnail`} />
                   </span>
-                  <span>
+                  <span className="main-menu__soon-copy">
                     <strong>{experience.title}</strong>
                     <p>{experience.status}</p>
                   </span>
@@ -75,14 +75,11 @@ export const MainMenuScreen = ({ onNavigate, onSelectGame }: MainMenuScreenProps
           </div>
 
           <div className="main-menu__exit">
-            <button className="menu-button" onClick={() => onNavigate('goodbye')}>
-              <span className="menu-button__icon" aria-hidden>
-                👋
-              </span>
-              <span>
+            <button className="menu-button main-menu__exit-button" onClick={() => onNavigate('goodbye')}>
+              <div className="main-menu__exit-copy">
                 <strong>Exit suite</strong>
                 <p>Return to IFE home after showcasing the savannah.</p>
-              </span>
+              </div>
             </button>
           </div>
         </div>

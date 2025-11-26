@@ -113,9 +113,9 @@ export const PostGameScreen = ({
 
   const [showLeaderboard, setShowLeaderboard] = useState(false);
 
-  const baseScore = (result?.correct ?? 0) * 100 - (result?.incorrect ?? 0) * 25;
-  const streakPoints = Math.max(0, (result?.streak ?? 0) * 100);
-  const totalScore = baseScore + streakPoints;
+  const baseScore = (result?.correct ?? 0) * 500 - (result?.incorrect ?? 0) * 500;
+  const streakPoints = result?.streakBonusTotal ?? 0;
+  const totalScore = result?.score ?? baseScore + streakPoints;
 
   const attempts = (result?.correct ?? 0) + (result?.incorrect ?? 0);
   const accuracy = attempts > 0 ? Math.round(((result?.correct ?? 0) / attempts) * 100) : 0;
@@ -365,35 +365,20 @@ export const PostGameScreen = ({
 </div>
 
           <div className="post-game__actions">
-            <button className="menu-button" onClick={() => onNavigate('game')}>
-              <span className="menu-button__icon" aria-hidden>
-                🔁
-              </span>
-              <span>
+            <button className="cta-button post-game__cta-button" onClick={() => onNavigate('game')}>
+              <span className="post-game__cta-copy">
                 <strong>Replay</strong>
                 <p>Take another lap around the continent.</p>
               </span>
             </button>
-            <button
-              className="menu-button"
-              onClick={() => setShowLeaderboard(true)}
-            >
-              <span className="menu-button__icon" aria-hidden>
-                🏆
-              </span>
-              <span>
+            <button className="cta-button post-game__cta-button" onClick={() => setShowLeaderboard(true)}>
+              <span className="post-game__cta-copy">
                 <strong>Leaderboard</strong>
                 <p>Compare scores with fellow travelers.</p>
               </span>
             </button>
-            <button
-              className="menu-button"
-              onClick={() => onNavigate('goodbye')}
-            >
-              <span className="menu-button__icon" aria-hidden>
-                ✈️
-              </span>
-              <span>
+            <button className="cta-button post-game__cta-button" onClick={() => onNavigate('goodbye')}>
+              <span className="post-game__cta-copy">
                 <strong>Exit</strong>
                 <p>Return to Bole International Airport.</p>
               </span>

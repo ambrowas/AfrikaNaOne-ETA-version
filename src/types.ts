@@ -40,6 +40,8 @@ export interface GameResult {
   incorrect: number;
   streak: number;
   totalTimeSeconds: number;
+  streakBonusTotal?: number;
+  score?: number;
 }
 
 export interface SessionState {

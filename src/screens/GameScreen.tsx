@@ -302,7 +302,12 @@ export const GameScreen = ({ gameId, onCompleted, onNavigate }: GameScreenProps)
   useEffect(() => {
     if (!gameOverTriggeredRef.current && stats.incorrect >= 5) {
       gameOverTriggeredRef.current = true;
-      onCompleted(stats);
+      const finalResult = {
+        ...stats,
+        streakBonusTotal,
+        score
+      };
+      onCompleted(finalResult);
       onNavigate('postGame');
       stopDrumSound();
       stopTimer();
@@ -318,7 +323,7 @@ export const GameScreen = ({ gameId, onCompleted, onNavigate }: GameScreenProps)
         warningTimeoutRef.current = null;
       }, 4000);
     }
-  }, [stats, onCompleted, onNavigate, stopDrumSound, stopTimer]);
+  }, [stats, onCompleted, onNavigate, stopDrumSound, stopTimer, score, streakBonusTotal]);
 
   const handleAnswer = (optionId: string) => {
     if (answered || !currentQuestion) return;

@@ -5,7 +5,7 @@ export const games: GameDefinition[] = [
     id: 'savannah-trivia',
     title: 'Savannah Trivia Flight',
     description:
-      'Rapid-fire general knowledge questions:\nfrom Casablanca to Cape Town, from Malabo to Djibouti.',
+      'Rapid fire general knowledge questions:\nfrom Casablanca to Cape Town, from Malabo to Djibouti.',
     kind: 'trivia',
     estimatedMinutes: 5,
     difficulty: 'medium',
